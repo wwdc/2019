@@ -17,3 +17,4 @@ To add your own below, just [edit](https://github.com/wwdcscholars/2019/edit/mas
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |[Name](https://twitter.com)|[GitHub](https://github.com)|[YouTube](https://youtube.com)|Technologies|Status|
+|[Gautham Elango](https://gggcubed.com/)|[GitHub](https://github.com/gg2001/WhatsApple)||AVFoundation, Vision, Core ML, Image I/O|Submitted|
