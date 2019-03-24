@@ -20,6 +20,7 @@ To add your own project, simply [fill out this form](https://docs.google.com/for
 |[Hubert Tatra](https://www.linkedin.com/in/hubert-tatra/)|[GitHub](https://github.com/hubertme/IndonesiaHeritage-WWDC)||UIKit, AVFoundation|Submitted|
 |[Jacky Yu](https://twitter.com/HachimanCaptain)|[GitHub](https://github.com/CaptainYukinoshitaHachiman/Cryptography-and-Privacy)||UIKit, Security, CommonCryptos|Submitted|
 |[Jiaqi Liu](https://twitter.com/tuzi_moe)|||SpriteKit, ARKit, UIKit, CoreML|Submitted|
+|[Jordan Osterberg](https://twitter.com/OsterbergJordan)|[GitHub](https://github.com/JordanOsterberg/wwdc/)|[YouTube](https://www.youtube.com/watch?v=G4_Do_m50NQ)|SpriteKit, UIKit, PlaygroundBooks, Accessibility|Submitted|
 |[Julian Schiavo](https://twitter.com/justjs_dev)|[GitHub](https://github.com/justJS/wwdc/tree/master/2019)|[YouTube](https://www.youtube.com/watch?v=dIYKp80OxE8)|AVFoundation, Core Image, UIKit|Submitted|
 |[Mark Bruckert](https://twitter.com/Mark_Bruckert)|[GitHub](https://github.com/mbruckert/WWDC-2019-Apple-TV)|[YouTube](https://youtu.be/mr5sKyyi4Pc)|UIKit, AVKit|Submitted|
 |[Michael Dugan](https://www.linkedin.com/in/michael-dugan-733764177/)|||AVFoundation, UIKit|Submitted|
