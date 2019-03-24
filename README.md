@@ -15,5 +15,5 @@ To add your own project, simply [fill out this form](https://docs.google.com/for
 |[Gautham Elango](https://gggcubed.com/)|[GitHub](https://github.com/gg2001/WhatsApple)||AVFoundation, Vision, Core ML, Image I/O|Submitted|
 |[Julian Schiavo](https://twitter.com/justjs_dev)|[GitHub](https://github.com/justJS/wwdc/tree/master/2019)|[YouTube](https://www.youtube.com/watch?v=dIYKp80OxE8)|AVFoundation, Core Image, UIKit|Submitted|
 |[Mark Bruckert](https://twitter.com/Mark_Bruckert)|[GitHub](https://github.com/mbruckert/WWDC-2019-Apple-TV)|[YouTube](https://youtu.be/mr5sKyyi4Pc)|UIKit, AVKit|Submitted|
-|[Qingyang Hu](https://twitter.com/hqy_2000)|[GitHub](https://github.com/hqy2000/Railway)||SpriteKit, PlaygroundBooks|Submitted|
 |[Nicholas Grana](https://twitter.com/nicholasgranaa)|[GitHub](https://github.com/Nicholas714/WWDC-2019)|[YouTube](https://youtu.be/yf3cmby82N4)|ARKit, SceneKit, SpriteKit, UIKit|Submitted|
+|[Qingyang Hu](https://twitter.com/hqy_2000)|[GitHub](https://github.com/hqy2000/Railway)||SpriteKit, PlaygroundBooks|Submitted|
