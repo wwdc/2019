@@ -19,3 +19,4 @@ To add your own project, simply [fill out this form](https://docs.google.com/for
 |[Michael Dugan](https://www.linkedin.com/in/michael-dugan-733764177/)|||AVFoundation, UIKit|Submitted|
 |[Nicholas Grana](https://twitter.com/nicholasgranaa)|[GitHub](https://github.com/Nicholas714/WWDC-2019)|[YouTube](https://youtu.be/yf3cmby82N4)|ARKit, SceneKit, SpriteKit, UIKit|Submitted|
 |[Qingyang Hu](https://twitter.com/hqy_2000)|[GitHub](https://github.com/hqy2000/Railway)||SpriteKit, PlaygroundBooks|Submitted|
+[Mohamed Salah](https://mohasalah.com)|[GitHub](https://github.com/mohasalahh/WWDC19-Scholarship-Submission)|[YouTube](https://www.youtube.com/watch?v=bH9FwLSS1LA)|CoreML, CreateML, CoreGraphics, UIKit|Submitted|
