@@ -48,6 +48,7 @@ To add your own project, simply [fill out this form](https://docs.google.com/for
 |[Riley Walz](https://twitter.com/rtwlz)||[YouTube](https://www.youtube.com/watch?v=INF2xPXhTbY)|SpriteKit, GameplayKit, NaturalLanguage|Submitted|
 |[Viet Duc Nguyen](https://github.com/geniegeist)|[GitHub](https://github.com/geniegeist/WWDC-2019)|[YouTube](https://youtu.be/Hm-24Ha2z0o)|UIKit, CoreGraphics|Submitted|
 |[Vincent Cai](https://vince14genius.github.io)|[GitHub](https://github.com/Vince14Genius/WWDC19-Finder-Zen-AR)||ARKit, SceneKit, UIKit, Foundation|Submitted|
+|[Vlad Munteanu](http://vladcmunteanu.com)|[GitHub](https://github.com/vlad-munteanu/PearWatch)|[YouTube](https://www.youtube.com/watch?v=nGTPjg6663Q)|SpriteKit, AVFoundation|Submitted|
 |[Will Bishop](https://twitter.com/WillRBishop)|[GitHub](https://github.com/WillBishop/WWDC19)|[YouTube](https://youtu.be/x6KQtIDTKU0)|SpriteKit, AppKit|Submitted|
 |[Zach Knox](https://twitter.com/zmknox)|[GitHub](https://github.com/zmknox/WWDC19-Scholarship-Application)|[YouTube](https://www.youtube.com/watch?v=mutncT3Q3F0)|AVFoundation, Core Image, Photos, UIKit|Submitted|
 |[Zhixing Zhang](https://twitter.com/Neo_Zhixing)|[GitHub](https://github.com/Neo-Zhixing/Orbitally-iOS-WWDC19)|[YouTube](https://www.youtube.com/watch?v=LrvdOtkK2WA)|SceneKit, Metal, MetalKit, ARKit|Submitted|
