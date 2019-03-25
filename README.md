@@ -104,6 +104,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Vlad Munteanu](http://vladcmunteanu.com)|[GitHub](https://github.com/vlad-munteanu/PearWatch)|[YouTube](https://www.youtube.com/watch?v=nGTPjg6663Q)|SpriteKit, AVFoundation|Submitted|
 |[Will Bishop](https://twitter.com/WillRBishop)|[GitHub](https://github.com/WillBishop/WWDC19)|[YouTube](https://youtu.be/x6KQtIDTKU0)|SpriteKit, AppKit|Submitted|
 |William Irwin III|[GitHub](https://github.com/Tungsten533/Nekopalypse)||SpriteKit, AVFoundation|Submitted|
+|[William Taylor](https://github.com/wfltaylor)|[YouTube](https://youtu.be/pUzvXQJEh30)||SceneKit, ARKit, UIKit, SpriteKit|Submitted|
 |[Yichen Cao](https://twitter.com/schemetrical)|[GitHub](https://github.com/Schemetrical/WWDC19)||ARKit, SceneKit, MultipeerConnectivity|Submitted|
 |[Zach Knox](https://twitter.com/zmknox)|[GitHub](https://github.com/zmknox/WWDC19-Scholarship-Application)|[YouTube](https://www.youtube.com/watch?v=mutncT3Q3F0)|AVFoundation, Core Image, Photos, UIKit|Submitted|
 |[Zhixing Zhang](https://twitter.com/Neo_Zhixing)|[GitHub](https://github.com/Neo-Zhixing/Orbitally-iOS-WWDC19)|[YouTube](https://www.youtube.com/watch?v=LrvdOtkK2WA)|SceneKit, Metal, MetalKit, ARKit|Submitted|
