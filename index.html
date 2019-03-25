@@ -54,7 +54,7 @@
             $.get('https://api.github.com/repos/wwdc/2019/git/refs/heads/master')
                 .done(function(data) {
                     const hash = data.object.sha;
-                    const url = 'https://cdn.rawgit.com/wwdc/201/' + hash + '/README.md';
+                    const url = 'https://cdn.jsdelivr.net/gh/wwdc/2019@' + hash + '/README.md';
                     $.get(url)
                         .done(function(data) {
                             $('.indicator').hide();
