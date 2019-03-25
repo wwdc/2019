@@ -16,6 +16,7 @@ To add your own project, simply [fill out this form](https://docs.google.com/for
 |[Adrian Labbé](https://twitter.com/develobile)|[GitHub](https://github.com/ColdGrub1384/WWDC19)|[Instagram](https://www.instagram.com/tv/BvaK4DOBrOA)|UIKit, Drag & Drop|Submitted|
 |[Anirudh Natarajan](https://www.instagram.com/rudhlesss/)|[GitHub](https://github.com/aniNatarajan12/ARtist)|[YouTube](https://www.youtube.com/watch?v=_y-bBB5SdF4)|ARKit, CoreML, UIKit, SceneKit|Submitted|
 |[Anthony Li](https://anli.dev)|[GitHub](https://github.com/anli5005/bubble-tea-playground)||SceneKit, SpriteKit, CoreGraphics|Submitted|
+|[Arved Viehweger](https://twitter.com/arvedviehweger)|[GitHub](https://github.com/arvedviehweger/WWDC2019)|[YouTube](https://www.youtube.com/watch?v=U0UI_ozRLRQ)|UIKit, Foundation, AVFoundation|Submitted|
 |Bastian Kusserow|[GitHub](https://github.com/BastianKusserow/WWDC2019Submission)|[YouTube](https://www.youtube.com/watch?v=UM5LJQ2sxaA)|UIKit, SpriteKit, Vision, CoreML|Submitted|
 |[Batuhan Saka](https://twitter.com/strawb3rryx7)||[YouTube](https://youtu.be/L4PDdMHfuFQ)|UIKit, CoreML, Vision, AVFoundation|Submitted|
 |[Carol Chen](https://carolchen.me)|[GitHub](https://github.com/kipply/sorting_algorithm_visualization_and_aurlization_in_a_swift_playground)|[YouTube](https://www.youtube.com/watch?v=-fTBJMBzVng)||Submitted|
