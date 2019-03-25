@@ -6,6 +6,8 @@ Student submissions for the WWDC 2019 Scholarship
 
 List of student submissions for the WWDC 2019 scholarship.
 
+Checkout the [YouTube Playlist](https://www.youtube.com/playlist?list=PLRg_ppvslSwr6rucF7IDsiW8nNE2zzJ76) to watch the submissions.
+
 To add your own project, simply [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSdlUHKJ8pqLXhp74Ucsnkl6fNck-SxKF1lWqOLfOgAIi6HHlA/viewform?usp=sf_link).
 
 | Name | Source |    Videos    | Technologies | Status |
