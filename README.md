@@ -23,6 +23,7 @@ To add your own project, simply [fill out this form](https://docs.google.com/for
 |[Dowland Aiello](https://github.com/dowlandaiello)|[GitHub](https://github.com/polaris-project/swift-polaris)|[YouTube](https://youtu.be/6CUK_pxzQ-4)|Foundation, UIKit|Submitted|
 |[Gautham Elango](https://gggcubed.com/)|[GitHub](https://github.com/gg2001/WhatsApple)||AVFoundation, Vision, Core ML, Image I/O|Submitted|
 |[Giovanni Bruno](https://www.instagram.com/gg.bru/)|[GitHub](https://github.com/GiovanniLuigi/ToRecycle_WWDC2019)|[YouTube](https://www.youtube.com/watch?v=GVS3H0rR7Rk)|SpriteKit, Gameplaykit|Submitted|
+|[Haotian Zheng](http://fincher.im/)|[GitHub](https://github.com/JustinFincher/WWDC19Playground)||UIKit Dynamics, SpriteKit, AVFoundation|Submitted|
 |[Harshdeep Kahlon](http://harshdeepkahlon.com/)|[GitHub](https://github.com/HarshdeepKahlon/WWDC19)||UIKit, Core Image|Submitted|
 |[Hengyu Liu](https://liuhengyu.com/)|||ARKit|Submitted|
 |[Hubert Tatra](https://www.linkedin.com/in/hubert-tatra/)|[GitHub](https://github.com/hubertme/IndonesiaHeritage-WWDC)||UIKit, AVFoundation|Submitted|
