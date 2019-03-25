@@ -14,6 +14,7 @@ To add your own project, simply [fill out this form](https://docs.google.com/for
 |------|--------|--------------|--------------|--------|
 |[Name](https://twitter.com)|[GitHub](https://github.com)|[YouTube](https://youtube.com)|Technologies|Status|
 |[Adrian Labbé](https://twitter.com/develobile)|[GitHub](https://github.com/ColdGrub1384/WWDC19)|[Instagram](https://www.instagram.com/tv/BvaK4DOBrOA)|UIKit, Drag & Drop|Submitted|
+[Andy Jiehan Aldicho](https://github.com/jiehanAldicho)|[GitHub](https://github.com/jiehanAldicho/WWDC2019)||SpriteKit, GameplayKit, AppKit|Submitted
 |[Anirudh Natarajan](https://www.instagram.com/rudhlesss/)|[GitHub](https://github.com/aniNatarajan12/ARtist)|[YouTube](https://www.youtube.com/watch?v=_y-bBB5SdF4)|ARKit, CoreML, UIKit, SceneKit|Submitted|
 |[Anthony Li](https://anli.dev)|[GitHub](https://github.com/anli5005/bubble-tea-playground)||SceneKit, SpriteKit, CoreGraphics|Submitted|
 |Bastian Kusserow|[GitHub](https://github.com/BastianKusserow/WWDC2019Submission)|[YouTube](https://www.youtube.com/watch?v=UM5LJQ2sxaA)|UIKit, SpriteKit, Vision, CoreML|Submitted|
