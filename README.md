@@ -29,6 +29,7 @@ To add your own project, simply [fill out this form](https://docs.google.com/for
 |[Harshdeep Kahlon](http://harshdeepkahlon.com/)|[GitHub](https://github.com/HarshdeepKahlon/WWDC19)||UIKit, Core Image|Submitted|
 |[Hengyu Liu](https://liuhengyu.com/)|||ARKit|Submitted|
 |[Hubert Tatra](https://www.linkedin.com/in/hubert-tatra/)|[GitHub](https://github.com/hubertme/IndonesiaHeritage-WWDC)||UIKit, AVFoundation|Submitted|
+|[Isaac Rodriguez](https://koide.top/)||[Youtube](https://www.youtube.com/watch?v=S8P0UGW_RBw)|UIKit, AVFoundation|Submitted|
 |[Jacky Yu](https://twitter.com/HachimanCaptain)|[GitHub](https://github.com/CaptainYukinoshitaHachiman/Cryptography-and-Privacy)||UIKit, Security, CommonCryptos|Submitted|
 |[Jiaqi Liu](https://twitter.com/tuzi_moe)|||SpriteKit, ARKit, UIKit, CoreML|Submitted|
 |[John Ciocca](https://www.twitter.com/JohnCiocca)|||UIKit, SpriteKit, CoreML, AVFoundation|Submitted|
