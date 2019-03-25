@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="UTF-8">
+    <title>WWDC 2019 Scholarship Submissions by WWDCStudents</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+    <link rel="stylesheet" type="text/css" href="stylesheets/github-light.css" media="screen">
+    <style type="text/css">
+      .md-content img {
+        display: block;
+        margin: auto;
+        max-height: 500px;
+      }
+      .md-content table p {
+        margin-bottom: 0;
+      }
+    </style>
+  </head>
+  <body>
+
+    <section class="main-content">
+      <div class="md-content"></div>
+
+      <div class="loading indicator">Loading... It might take a few seconds.</div>
+      <div class="error indicator" hidden>
+        There was an error: <span class="error-message"></span>
+      </div>
+
+      <footer class="site-footer">
+        <span class="site-footer-owner"><a href="https://github.com/wwdc/2019" target="_blank">WWDC 2019 Scholarship Submissions</a> is maintained by <a href="https://github.com/wwdc" target="_blank">WWDC Students</a> Jonathan Chan, Kesi Maduka, Kyle Spadaro and Yichen Cao.</span>
+
+        <span class="site-footer-credits">This page uses the <a href="https://github.com/jasonlong/cayman-theme" target="_blank">Cayman theme</a> by <a href="https://twitter.com/jasonlong" target="_blank">Jason Long</a>.</span>
+      </footer>
+    </section>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/showdown/0.5.0/showdown.min.js"></script>
+    <!--CDNJS does not host these extensions-->
+    <script src="https://cdn.rawgit.com/showdownjs/showdown/0.5.0/compressed/extensions/github.min.js"></script>
+    <script src="https://cdn.rawgit.com/showdownjs/showdown/0.5.0/compressed/extensions/table.min.js"></script>
+    <script>
+        var showdown = new Showdown.converter({
+            extensions: ['github', 'table']
+        });
+        function errorHandler(message) {
+            $('.indicator').hide();
+            $('.error.indicator').show();
+            $('.error.indicator .error-message').html(message);
+        }
+        $(function() {
+            $.get('https://api.github.com/repos/wwdc/2019/git/refs/heads/master')
+                .done(function(data) {
+                    const hash = data.object.sha;
+                    const url = 'https://cdn.rawgit.com/wwdc/201/' + hash + '/README.md';
+                    $.get(url)
+                        .done(function(data) {
+                            $('.indicator').hide();
+                            var html = showdown.makeHtml(data);
+                            $('.md-content').html(html);
+                            $('.md-content a').attr('target', '_blank');
+                            $('.md-content td p:contains(Accepted)').css('color', 'green');
+                            $('.md-content td p:contains(Rejected)').css('color', 'red');
+                        })
+                        .fail(function(jqXHR, textStatus, error) {
+                            errorHandler(error);
+                        });
+                })
+                .fail(function(jqXHR, textStatus, error) {
+                    errorHandler(error);
+                });
+        });
+    </script>
+  </body>
+</html>
