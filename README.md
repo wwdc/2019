@@ -45,6 +45,7 @@ To add your own project, simply [fill out this form](https://docs.google.com/for
 |[Omer Gulen](https://twitter.com/omergulenn)|[GitHub](https://github.com/omergulen/wwdc19)|Soon|UIKit, CoreAnimation|Submitted|
 |[omrobbie](https://omrobbie.com)|[GitHub](https://github.com/omrobbie/WWDC19)|[YouTube](https://youtu.be/zgoVTi7xyJU)|UIKit, AVFoundation|Submitted|
 |[Qingyang Hu](https://twitter.com/hqy_2000)|[GitHub](https://github.com/hqy2000/Railway)||SpriteKit, PlaygroundBooks|Submitted|
+|[Renata Faria](www.linkedin.com/in/renatafg-240996)||[YouTube](https://youtu.be/xcTyaG1eo98)|ARKit, UIGestures, AVFoundation, SceneKit |Submitted|
 |[Riley Walz](https://twitter.com/rtwlz)||[YouTube](https://www.youtube.com/watch?v=INF2xPXhTbY)|SpriteKit, GameplayKit, NaturalLanguage|Submitted|
 |[Viet Duc Nguyen](https://github.com/geniegeist)|[GitHub](https://github.com/geniegeist/WWDC-2019)|[YouTube](https://youtu.be/Hm-24Ha2z0o)|UIKit, CoreGraphics|Submitted|
 |[Vincent Cai](https://vince14genius.github.io)|[GitHub](https://github.com/Vince14Genius/WWDC19-Finder-Zen-AR)||ARKit, SceneKit, UIKit, Foundation|Submitted|
