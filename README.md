@@ -47,6 +47,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Gautham Elango](https://gggcubed.com/)|[GitHub](https://github.com/gg2001/WhatsApple)||AVFoundation, Vision, Core ML, Image I/O|Submitted|
 |[Gianpiero Spinelli](https://twitter.com/gianpispi)|||UIKit, Foundation|Submitted|
 |[Giovanni Bruno](https://www.instagram.com/gg.bru/)|[GitHub](https://github.com/GiovanniLuigi/ToRecycle_WWDC2019)|[YouTube](https://www.youtube.com/watch?v=GVS3H0rR7Rk)|SpriteKit, Gameplaykit|Submitted|
+|[Guillermo Cique](https://twitter.com/guiyec)|[GitHub](https://github.com/GuiyeC/WWDC-2019)|[YouTube](https://www.youtube.com/watch?v=LkUXrp9zjJY)|Neural Networks, UIKit, Core Animation, Playground Books|Submitted|
 |[Haotian Zheng](http://fincher.im/)|[GitHub](https://github.com/JustinFincher/WWDC19Playground)|[YouTube](https://www.youtube.com/watch?v=otw49ioAm2U)|UIKit Dynamics, SpriteKit, AVFoundation|Submitted|
 |[Harshdeep Kahlon](http://harshdeepkahlon.com/)|[GitHub](https://github.com/HarshdeepKahlon/WWDC19)||UIKit, Core Image|Submitted|
 |[Hengyu Liu](https://liuhengyu.com/)|||ARKit|Submitted|
