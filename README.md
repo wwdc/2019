@@ -22,6 +22,7 @@ To add your own project, simply [fill out this form](https://docs.google.com/for
 |[Cecily Kerns](https://twitter.com/Cecily_Kerns)|[GitHub](https://github.com/CecilyKerns/WWDC/)|[YouTube](https://youtu.be/lls2CAP4ugw)|SpriteKit, UIKit, PlaygroundBooks, Accessibility|Submitted|
 |[Daniel Gruber](https://igruber.me)|[Bitbucket](https://repo.goma-cms.org/users/daniel.gruber/repos/wwdc-2019/browse)||UIKit, PlaygroundBooks, CoreGraphics|Submitted|
 |[Daniel Riege](https://www.instagram.com/danielriege/)|[GitHub](https://github.com/danielriege/WWDC19-Application)||UIKit, CommonCrypto|Submitted|
+|[Darshil Patel](https://darshilpatel.com)||[YouTube](https://www.youtube.com/watch?v=GUPvFbPov20)|ARKit, SpriteKit, AVFoundation, UIKit|Submitted|
 |[Dowland Aiello](https://github.com/dowlandaiello)|[GitHub](https://github.com/polaris-project/swift-polaris)|[YouTube](https://youtu.be/6CUK_pxzQ-4)|Foundation, UIKit|Submitted|
 |[Gautham Elango](https://gggcubed.com/)|[GitHub](https://github.com/gg2001/WhatsApple)||AVFoundation, Vision, Core ML, Image I/O|Submitted|
 |[Giovanni Bruno](https://www.instagram.com/gg.bru/)|[GitHub](https://github.com/GiovanniLuigi/ToRecycle_WWDC2019)|[YouTube](https://www.youtube.com/watch?v=GVS3H0rR7Rk)|SpriteKit, Gameplaykit|Submitted|
