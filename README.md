@@ -89,7 +89,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Omer Gulen](https://twitter.com/omergulenn)|[GitHub](https://github.com/omergulen/wwdc19)|Soon|UIKit, CoreAnimation|Submitted|
 |[omrobbie](https://omrobbie.com)|[GitHub](https://github.com/omrobbie/WWDC19)|[YouTube](https://youtu.be/zgoVTi7xyJU)|UIKit, AVFoundation|Submitted|
 |[Oscar Gorog](https://oscargorog.com)|[GitHub](https://github.com/OkiRules/WWDC19-Submission)||SpriteKit, AVFoundation, JSON Parsing|Submitted|
-|Ozan Mirza|[Youtube](https://youtu.be/1gk3QSbFVpU)|[GitHub](https://github.com/ozanmirza1/WWDC-2019-Neural-Networks)|CoreML, Vision, UIKit, QuartzCore|Submitted|
+|Ozan Mirza|[GitHub](https://github.com/ozanmirza1/WWDC-2019-Neural-Networks)|[Youtube](https://youtu.be/1gk3QSbFVpU)|CoreML, Vision, UIKit, QuartzCore|Submitted|
 |[Qingyang Hu](https://twitter.com/hqy_2000)|[GitHub](https://github.com/hqy2000/Railway)||SpriteKit, PlaygroundBooks|Submitted|
 |[Raffaele Ascione](https://raffaeleascioneofficial.wordpress.com/)|[GitHub](https://github.com/raffesc/The-Mikado-game)|[YouTube](https://www.youtube.com/watch?v=Mz86J83I-Lo)|SceneKit, ARKit, UIKit|Submitted|
 |[Renata Faria](www.linkedin.com/in/renatafg-240996)||[YouTube](https://youtu.be/xcTyaG1eo98)|ARKit, UIGestures, AVFoundation, SceneKit |Submitted|
