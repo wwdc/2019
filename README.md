@@ -68,6 +68,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Kanishka](https://www.instagram.com/ralasi_code)||[YouTube](https://www.youtube.com/watch?v=54wndSzKW_E&t=38s)|UIKit, AVFoundation|Submitted|
 |[Kevin Schaefer](https://www.schaefkn.com)|[GitHub](https://github.com/schaefkn/WWDC19)||ARKit, SceneKit, SpriteKit, AVFoundation|Submitted|
 |[Lachlan Bell](https://lachy.io)|[GitHub](https://github.com/lachlanbell/WWDC19)|[YouTube](https://youtu.be/p_SrgzPHf_Y)|ARKit, Model I/O, SceneKit, UIKit|Submitted|
+|[Lennart Kerkvliet](https://www.instagram.com/lennartkerkvliet/)||[YouTube](https://www.youtube.com/watch?v=HsaaxNWrP5Y)|ARKit, SpriteKit, UIKit (Drag and Drop), CoreMotion, AVFoundation|Submitted|
 |[Linh Bouniol](https://twitter.com/linhbouniol)||[YouTube](https://www.youtube.com/watch?v=XywaVKxTnys)|CoreML, CreateML, Vision, AVFoundation|Submitted|
 |[Liuliet Lee](https://github.com/LiulietLee)|[GitHub](https://github.com/LiulietLee/mikutap)||UIKit, MetalKit, MediaPlayer, AVFoundation|Submitted|
 |Mansi Gandhi|[GitHub](https://github.com/mansimg/-WWDC-2019-Scholarship-Submission-Green-Sort)|[YouTube](https://youtu.be/kx9YG04_0JQ)|SpriteKit, UIKit|Submitted|
