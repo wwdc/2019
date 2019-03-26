@@ -74,6 +74,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Matej Plavevski](https://github.com/matejmecka)|[GitHub](https://github.com/MatejMecka/mr.Recyclo-Trashowski/)||UIKit, CoreML, AVFoundation, WebKit|Submitted|
 |[Matthew Kim](https://www.youtube.com/channel/UCi6VkPnL8sh_9wvu7ndDZig)|[GitHub](https://github.com/mjaydenkim/wwdcsubmission19)|[YouTube](https://www.youtube.com/watch?v=G4AFukITt_k&t=1s)|UIKit, AVFoundation|Submitted|
 |[Maulana Rizal Hilman](https://www.khilman.com)|[GitHub](https://github.com/drawrs/WWDC19-Submission-SandCastle-Game)|[YouTube](https://youtu.be/SVYPdaOCv_4)|UIKit, AVFoundation, GestureRecognizer|Submitted|
+|[Mehul Mohan](https://twitter.com/mehulmpt)|[GitHub](https://github.com/mehulmpt/wwdc-2019)|[YouTube](https://www.youtube.com/watch?v=owGuqiHHJI8&feature=youtu.be)|SceneKit, ARKit, UIKit, AVFoundation|Submitted|
 |[Michael Dugan](https://www.linkedin.com/in/michael-dugan-733764177/)|||AVFoundation, UIKit|Submitted|
 |Minhyuk Kim|[GitHub](https://github.com/mininny/WWDC19)||ARKit, SpriteKit, AVFoundation, UIKit|Submitted|
 |[Mohamed Salah](https://mohasalah.com)|[GitHub](https://github.com/mohasalahh/WWDC19-Scholarship-Submission)|[YouTube](https://www.youtube.com/watch?v=bH9FwLSS1LA)|CoreML, CreateML, CoreGraphics, UIKit|Submitted|
@@ -112,4 +113,3 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Yichen Cao](https://twitter.com/schemetrical)|[GitHub](https://github.com/Schemetrical/WWDC19)||ARKit, SceneKit, MultipeerConnectivity|Submitted|
 |[Zach Knox](https://twitter.com/zmknox)|[GitHub](https://github.com/zmknox/WWDC19-Scholarship-Application)|[YouTube](https://www.youtube.com/watch?v=mutncT3Q3F0)|AVFoundation, Core Image, Photos, UIKit|Submitted|
 |[Zhixing Zhang](https://twitter.com/Neo_Zhixing)|[GitHub](https://github.com/Neo-Zhixing/Orbitally-iOS-WWDC19)|[YouTube](https://www.youtube.com/watch?v=LrvdOtkK2WA)|SceneKit, Metal, MetalKit, ARKit|Submitted|
-|[Mehul Mohan](https://twitter.com/mehulmpt)|[GitHub](https://github.com/mehulmpt/wwdc-2019)|[YouTube](https://www.youtube.com/watch?v=owGuqiHHJI8&feature=youtu.be)|SceneKit, ARKit, UIKit, AVFoundation|Submitted|
