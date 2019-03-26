@@ -40,6 +40,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Daniel Wang](https://danielwang.dev)|||PlaygroundBooks, SceneKit, AVFoundation|Submitted|
 |[Darshil Patel](https://darshilpatel.com)||[YouTube](https://www.youtube.com/watch?v=GUPvFbPov20)|SpriteKit, ARKit, AVFoundation|Submitted|
 |[Davide Tarantino](https://www.linkedin.com/in/davide-tarantino-b6a08a17a/)|[GitHub](https://github.com/davix93/TheTuringMachine-WWDC19)|[YouTube](https://youtu.be/NY6P2ktaJx4)|PlaygroundBook, SpriteKit, UIKit|Submitted|
+|[Dennis Vermeulen](https://github.com/Dennissimeau)|[GitHub](https://github.com/Dennissimeau/melanomafinder)|[YouTube](https://www.youtube.com/watch?v=QU2mxqv1syE&t)|CoreML, CreateML, Vision, UIKit|Submitted|
 |[Dowland Aiello](https://github.com/dowlandaiello)|[GitHub](https://github.com/polaris-project/swift-polaris)|[YouTube](https://youtu.be/6CUK_pxzQ-4)|Foundation, UIKit|Submitted|
 |Denny Caruso |[GitHub](https://github.com/dennewbie/PizzaCode-Cook)|[YouTube](https://youtu.be/aVSkcdBZG14)|UIKit, AVFoundation|Submitted|
 |[Gabriel D'Luca](https://www.linkedin.com/in/gabriel-d-luca-340001126/) |[GitHub](https://github.com/gabrieldluca/mosaic)|[YouTube](https://www.youtube.com/watch?v=8aJH1pYvUDE)|UIKit, SceneKit, AVFoundation, CoreAnimation |Submitted|
