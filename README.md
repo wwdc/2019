@@ -87,7 +87,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Raffaele Ascione](https://raffaeleascioneofficial.wordpress.com/)|[GitHub](https://github.com/raffesc/The-Mikado-game)|[YouTube](https://www.youtube.com/watch?v=Mz86J83I-Lo)|SceneKit, ARKit, UIKit|Submitted|
 |[Renata Faria](www.linkedin.com/in/renatafg-240996)||[YouTube](https://youtu.be/xcTyaG1eo98)|ARKit, UIGestures, AVFoundation, SceneKit |Submitted|
 |[Riley Walz](https://twitter.com/rtwlz)||[YouTube](https://www.youtube.com/watch?v=INF2xPXhTbY)|SpriteKit, GameplayKit, NaturalLanguage|Submitted|
-|[Sai Kambampati](https://twitter.com/Sai_K1065)||[YouTube](https://www.youtube.com/watch?v=QCREUCZlLd4)|UIKit, Vision, SpriteKit, SceneKit, ARKit, Core ML, Create ML|Submitted|
+|[Sai Kambampati](https://twitter.com/Sai_K1065)||[YouTube](https://www.youtube.com/watch?v=QCREUCZlLd4)|UIKit, SceneKit, ARKit, Core ML|Submitted|
 |[Sam Eckert](https://twitter.com/sam0711er)||[YouTube](https://youtu.be/8GhNUKteLMg)|AVFoundation, SpriteKit, Vision & CoreML|Submitted|
 |[Sergen Gönenç](https://twitter.com/sertheapplr)|[GitHub](https://github.com/sergendev/DysgraphAI)||UIKit, CoreML, Vision, Create ML|Submitted|
 |[Swapnanil Dhol](https://twitter.com/swapnanildhol)||[YouTube](https://www.youtube.com/watch?v=QaVC1AluGAo)|Create ML, Vision, Sprite Kit, Core ML |Submitted|
