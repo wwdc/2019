@@ -46,7 +46,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |Denny Caruso |[GitHub](https://github.com/dennewbie/PizzaCode-Cook)|[YouTube](https://youtu.be/aVSkcdBZG14)|UIKit, AVFoundation|Submitted|
 |[Gabriel D'Luca](https://www.linkedin.com/in/gabriel-d-luca-340001126/) |[GitHub](https://github.com/gabrieldluca/mosaic)|[YouTube](https://www.youtube.com/watch?v=8aJH1pYvUDE)|UIKit, SceneKit, AVFoundation, CoreAnimation |Submitted|
 |[Gautham Elango](https://gggcubed.com/)|[GitHub](https://github.com/gg2001/WhatsApple)||AVFoundation, Vision, CoreML, Image I/O|Submitted|
-|[Gennaro Frate]|[GitHub](https://github.com/TheGen30)||ARKit, SceneKit, SpriteKit|Submitted|
+|[Gennaro Frate](https://twitter.com/GennaroFra)|[GitHub](https://github.com/TheGen30)||ARKit, SceneKit, SpriteKit|Submitted|
 |[Gianpiero Spinelli](https://twitter.com/gianpispi)|||UIKit, Foundation|Submitted|
 |[Giovanni Bruno](https://www.instagram.com/gg.bru/)|[GitHub](https://github.com/GiovanniLuigi/ToRecycle_WWDC2019)|[YouTube](https://www.youtube.com/watch?v=GVS3H0rR7Rk)|SpriteKit, Gameplaykit|Submitted|
 |[Guilherme Bayma](https://twitter.com/guibayma)|[GitHub](https://github.com/GuiBayma/DiscoveringML)||AVFoundation, CoreML, PlaygroundBook, UIKit|Submitted|
