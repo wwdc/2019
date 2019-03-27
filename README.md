@@ -22,6 +22,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Adrian Labbé](https://twitter.com/develobile)|[GitHub](https://github.com/ColdGrub1384/WWDC19)|[Instagram](https://www.instagram.com/tv/BvaK4DOBrOA)|UIKit, Drag & Drop|Submitted|
 |[Alessandro Minopoli](https://www.linkedin.com/in/alessandro-minopoli/)|[GitHub](https://github.com/alex010x/WeReunited)|[Youtube](https://www.youtube.com/watch?v=EAq9ehyH_LY)|PlaygroundBook, SpriteKit, Core ML, Vision|Submitted|
 |Andika Leonardo|[GitHub](https://github.com/andikaleonardo/WWDC-2019-Scholarship-Submissions)||QuartzCore, UISceneKit, UIStackView, CGFloat/CGRect|Submitted|
+|[Andrew Sawyer](http://andrewjsawyer.com/)|[GitHub](https://github.com/aswyer/Emotist)||SceneKit|Submitted|
 |[Andy Jiehan Aldicho](https://twitter.com/scitsiugnil)|[GitHub](https://github.com/jiehanAldicho/WWDC2019)||SpriteKit, GameplayKit, Appkit|Submitted|
 |[Anirudh Natarajan](https://www.instagram.com/rudhlesss/)|[GitHub](https://github.com/aniNatarajan12/ARtist)|[YouTube](https://www.youtube.com/watch?v=_y-bBB5SdF4)|ARKit, CoreML, UIKit, SceneKit|Submitted|
 |[Anthony Li](https://anli.dev)|[GitHub](https://github.com/anli5005/bubble-tea-playground)||SceneKit, SpriteKit, CoreGraphics|Submitted|
@@ -109,4 +110,3 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Yichen Cao](https://twitter.com/schemetrical)|[GitHub](https://github.com/Schemetrical/WWDC19)||ARKit, SceneKit, MultipeerConnectivity|Submitted|
 |[Zach Knox](https://twitter.com/zmknox)|[GitHub](https://github.com/zmknox/WWDC19-Scholarship-Application)|[YouTube](https://www.youtube.com/watch?v=mutncT3Q3F0)|AVFoundation, Core Image, Photos, UIKit|Submitted|
 |[Zhixing Zhang](https://twitter.com/Neo_Zhixing)|[GitHub](https://github.com/Neo-Zhixing/Orbitally-iOS-WWDC19)|[YouTube](https://www.youtube.com/watch?v=LrvdOtkK2WA)|SceneKit, Metal, MetalKit, ARKit|Submitted|
-|[Andrew Sawyer](http://andrewjsawyer.com/)|[GitHub](https://github.com/aswyer/Emotist)||SceneKit|Submitted|
