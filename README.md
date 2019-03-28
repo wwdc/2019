@@ -46,7 +46,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Dhrumil Dhanesha](http://www.dhrumildhanesha.com/)|[GitHub](https://github.com/DhrumilDhanesha/wwdc19)|[YouTube](https://www.youtube.com/channel/UCXQJa9anuEkVlS2wpXbfM4Q?view_as=subscriber)|PlaygroundSupport, SpriteKit, Foundation, GameKit|Submitted|
 |[Dowland Aiello](https://github.com/dowlandaiello)|[GitHub](https://github.com/polaris-project/swift-polaris)|[YouTube](https://youtu.be/6CUK_pxzQ-4)|Foundation, UIKit|Submitted|
 |Denny Caruso |[GitHub](https://github.com/dennewbie/PizzaCode-Cook)|[YouTube](https://youtu.be/aVSkcdBZG14)|UIKit, AVFoundation|Submitted|
-|[Ethan Humphrey](https://twitter.com/EthanInnovator)|[GitHub](https://github.com/EthanTheInnovator/LearningMachineLearning)||Playground Book, Core ML, Create ML, Vision, AVFoundation, UIKit, UIAccessibility |Submitted|
+|[Ethan Humphrey](https://twitter.com/EthanInnovator)|[GitHub](https://github.com/EthanTheInnovator/LearningMachineLearning)||Playground Book, Core ML, Vision, UIAccessibility |Submitted|
 |[Fan Bai](https://github.com/fullalien)|[GitHub](https://github.com/fullalien/WWDC19_Patternful)||UIKit, CoreGraphics|Submitted|
 |[Gabriel D'Luca](https://www.linkedin.com/in/gabriel-d-luca-340001126/) |[GitHub](https://github.com/gabrieldluca/mosaic)|[YouTube](https://www.youtube.com/watch?v=8aJH1pYvUDE)|UIKit, SceneKit, AVFoundation, CoreAnimation |Submitted|
 |[Gautham Elango](https://gggcubed.com/)|[GitHub](https://github.com/gg2001/WhatsApple)||AVFoundation, Vision, CoreML, Image I/O|Submitted|
