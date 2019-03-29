@@ -52,7 +52,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Ethan Humphrey](https://twitter.com/EthanInnovator)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/EthanTheInnovator/LearningMachineLearning),  Playground Book, Core ML, Vision, UIAccessibility </sub>|Submitted|
 |[Fan Bai](https://github.com/fullalien)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/fullalien/WWDC19_Patternful),  UIKit, CoreGraphics</sub>|Submitted|
 |[Gabriel D'Luca](https://www.linkedin.com/in/gabriel-d-luca-340001126/)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/gabrieldluca/mosaic), [YouTube](https://www.youtube.com/watch?v=8aJH1pYvUDE)  UIKit, SceneKit, AVFoundation, CoreAnimation </sub>|Submitted|
-|[Gautham Elango](https://gggcubed.com/)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/gg2001/WhatsApple),  AVFoundation, Vision, CoreML, Image I/O</sub>|Submitted|
+|[Gautham Elango](https://gggcubed.com/) | <strong> WhatsApple </strong> <br>Swift Playground that uses machine learning to classify pictures of apples <br> <sub> [GitHub](https://github.com/gg2001/WhatsApple). AVFoundation, Vision, Core ML, Image I/O. | Submitted |
 |[Gennaro Frate](https://twitter.com/GennaroFra)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/TheGen30),  ARKit, SceneKit, SpriteKit</sub>|Submitted|
 |[Gianpiero Spinelli](https://twitter.com/gianpispi)|<strong> </strong> <br>  <br> <sub>  UIKit, Foundation</sub>|Submitted|
 |[Giovanni Bruno](https://www.instagram.com/gg.bru/)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/GiovanniLuigi/ToRecycle_WWDC2019), [YouTube](https://www.youtube.com/watch?v=GVS3H0rR7Rk)  SpriteKit, Gameplaykit</sub>|Submitted|
