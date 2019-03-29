@@ -20,8 +20,8 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 <!-- Description shouldn't be longer than 2 lines. -->
 
 
-| Name | Title, Desc, Links and Technologies  | Status |
-|------|--------------------------------------|--------|
+| Name | Title, Description, Links and Technologies  | Status |
+|------|---------------------------------------------|--------|
 |[Adrian Labbé](https://twitter.com/develobile)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/ColdGrub1384/WWDC19), [Instagram](https://www.instagram.com/tv/BvaK4DOBrOA)  UIKit, Drag & Drop</sub>|Submitted|
 |[Alessandro Minopoli](https://www.linkedin.com/in/alessandro-minopoli/)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/alex010x/WeReunited), [Youtube](https://www.youtube.com/watch?v=EAq9ehyH_LY)  PlaygroundBook, SpriteKit, CoreML, Vision</sub>|Submitted|
 |[Alexander Zank](https://twitter.com/alexlikeplus)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/AlexLike/WWDC19Playground), [Youtube](https://youtu.be/3lVUhAldC9Q)  UIKit Dynamics, AVFoundation, ARKit, SceneKit</sub>|Submitted|
