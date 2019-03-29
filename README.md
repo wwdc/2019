@@ -20,7 +20,9 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 <!-- Description shouldn't be longer than 2 lines. -->
 
 
-|[GitHub](https://github.com/ColdGrub1384/WWDC19)|<strong> </strong> <br>  <br> <sub> [Instagram](https://www.instagram.com/tv/BvaK4DOBrOA),  Submitted</sub>||
+| Name | Title, Desc, Links and Technologies  | Status |
+|------|--------------------------------------|--------|
+|[Adrian Labbé](https://twitter.com/develobile)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/ColdGrub1384/WWDC19), [Instagram](https://www.instagram.com/tv/BvaK4DOBrOA)  UIKit, Drag & Drop</sub>|Submitted|
 |[Alessandro Minopoli](https://www.linkedin.com/in/alessandro-minopoli/)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/alex010x/WeReunited), [Youtube](https://www.youtube.com/watch?v=EAq9ehyH_LY)  PlaygroundBook, SpriteKit, CoreML, Vision</sub>|Submitted|
 |[Alexander Zank](https://twitter.com/alexlikeplus)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/AlexLike/WWDC19Playground), [Youtube](https://youtu.be/3lVUhAldC9Q)  UIKit Dynamics, AVFoundation, ARKit, SceneKit</sub>|Submitted|
 |Andika Leonardo|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/andikaleonardo/WWDC-2019-Scholarship-Submissions),  QuartzCore, UISceneKit, UIStackView, CGFloat/CGRect</sub>|Submitted|
@@ -33,7 +35,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Aurther Nadeem](https://www.instagram.com/aurther_nadeem/?hl=en)|<strong> </strong> <br>  <br> <sub>  ARKit, Core Animation, AVFoundation, UIKit</sub>|Submitted|
 |Bastian Kusserow|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/BastianKusserow/WWDC2019Submission), [YouTube](https://www.youtube.com/watch?v=UM5LJQ2sxaA)  UIKit, SpriteKit, Vision, CoreML</sub>|Submitted|
 |[Batuhan Saka](https://twitter.com/strawb3rryx7)|<strong> </strong> <br>  <br> <sub> [YouTube](https://youtu.be/L4PDdMHfuFQ)  UIKit, CoreML, Vision, AVFoundation</sub>|Submitted|
-|[Carol Chen](https://carolchen.me)|<strong>Sorting Animated</strong> <br> Sorting algorithm visualization and aurlization in a swift playground <br> <sub> [GitHub](https://github.com/kipply/sorting_algorithm_visualization_and_aurlization_in_a_swift_playground), [YouTube](https://www.youtube.com/watch?v=-fTBJMBzVng) |Submitted|
+|[Carol Chen](https://carolchen.me)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/kipply/sorting_algorithm_visualization_and_aurlization_in_a_swift_playground), [YouTube](https://www.youtube.com/watch?v=-fTBJMBzVng) |Submitted|
 |[Cecily Kerns](https://twitter.com/Cecily_Kerns)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/CecilyKerns/WWDC/), [YouTube](https://youtu.be/lls2CAP4ugw)  SpriteKit, UIKit, PlaygroundBooks, Accessibility</sub>|Submitted|
 |[Celal Dogan Kaya](https://twitter.com/celaldogankaya)|<strong> </strong> <br>  <br> <sub> [YouTube](https://youtu.be/PfozBCsdNhI)  CoreML, Vision, ARKit, Create ML</sub>|Submitted|
 |Claudio Cavalli|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/claudioitalian12/Fireworks-WWDC19), [YouTube](https://www.youtube.com/watch?v=wwnPXkzdjys&feature=youtu.be)  ARKit, AVFoundation, PlaygroundBook</sub>|Submitted|
@@ -79,7 +81,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Linh Bouniol](https://twitter.com/linhbouniol)|<strong> </strong> <br>  <br> <sub> [YouTube](https://www.youtube.com/watch?v=XywaVKxTnys)  CoreML, CreateML, Vision, AVFoundation</sub>|Submitted|
 |[Liuliet Lee](https://github.com/LiulietLee)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/LiulietLee/mikutap),  UIKit, MetalKit, MediaPlayer, AVFoundation</sub>|Submitted|
 |Mansi Gandhi|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/mansimg/-WWDC-2019-Scholarship-Submission-Green-Sort), [YouTube](https://youtu.be/kx9YG04_0JQ)  SpriteKit, UIKit</sub>|Submitted|
-|[Mark Bruckert](https://twitter.com/Mark_Bruckert)|<strong>WWDC 2019 Apple TV</strong> <br> Playground version of Apple TV <br> <sub> [GitHub](https://github.com/mbruckert/WWDC-2019-Apple-TV), [YouTube](https://youtu.be/mr5sKyyi4Pc)  UIKit, AVKit</sub>|Submitted|
+|[Mark Bruckert](https://twitter.com/Mark_Bruckert)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/mbruckert/WWDC-2019-Apple-TV), [YouTube](https://youtu.be/mr5sKyyi4Pc)  UIKit, AVKit</sub>|Submitted|
 |Marco Tammaro|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/marcotammaro/WWDC19.git), [YouTube](https://youtu.be/ELh54nK4Deg)  UIKit, SpriteKit, AVFoundation</sub>|Submitted|
 |[Matej Plavevski](https://github.com/matejmecka)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/MatejMecka/mr.Recyclo-Trashowski/),  UIKit, CoreML, AVFoundation, WebKit</sub>|Submitted|
 |[Matthew Kim](https://www.youtube.com/channel/UCi6VkPnL8sh_9wvu7ndDZig)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/mjaydenkim/wwdcsubmission19), [YouTube](https://www.youtube.com/watch?v=G4AFukITt_k&t=1s)  UIKit, AVFoundation</sub>|Submitted|
@@ -93,7 +95,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Niklas Buelow](https://twitter.com/niklasbuelow)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/insightmind/WWDC19Scholarship),  SpriteKit, AVFoundation, UIKit, CoreGraphics</sub>|Submitted|
 |[Niklas Korzeniewski](https://www.twitter.com/derNiklaas)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/derNiklaas/Fruit-Smasher),  SpriteKit</sub>|Submitted|
 |[Oksana Bolibok](https://www.linkedin.com/in/oksana-bolibok-1ba8a9165/)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/Rok-sana/WWDC19-LogicBoard), [YouTube](https://youtu.be/vs4REdz2i_w)  ARKit, SpriteKit, Foundation, UIKit</sub>|Submitted|
-|[Omer Gulen](https://twitter.com/omergulenn)|<strong> Barista Tree </strong> <br> It is a Swift Playground where you can find the coffee that fits you the best while coding and learning <br> <sub> [GitHub](https://github.com/omergulen/wwdc19),  UIKit, CoreAnimation</sub>|Submitted|
+|[Omer Gulen](https://twitter.com/omergulenn)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/omergulen/wwdc19),  UIKit, CoreAnimation</sub>|Submitted|
 |[omrobbie](https://omrobbie.com)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/omrobbie/WWDC19), [YouTube](https://youtu.be/zgoVTi7xyJU)  UIKit, AVFoundation</sub>|Submitted|
 |[Oscar Gorog](https://oscargorog.com)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/OkiRules/WWDC19-Submission),  SpriteKit, AVFoundation, JSON Parsing</sub>|Submitted|
 |Ozan Mirza|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/ozanmirza1/WWDC-2019-Neural-Networks), [Youtube](https://youtu.be/1gk3QSbFVpU)  CoreML, Vision, UIKit, QuartzCore</sub>|Submitted|
@@ -130,4 +132,3 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Yichen Cao](https://twitter.com/schemetrical)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/Schemetrical/WWDC19),  ARKit, SceneKit, MultipeerConnectivity</sub>|Submitted|
 |[Zach Knox](https://twitter.com/zmknox)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/zmknox/WWDC19-Scholarship-Application), [YouTube](https://www.youtube.com/watch?v=mutncT3Q3F0)  AVFoundation, Core Image, Photos, UIKit</sub>|Submitted|
 |[Zhixing Zhang](https://twitter.com/Neo_Zhixing)|<strong> </strong> <br>  <br> <sub> [GitHub](https://github.com/Neo-Zhixing/Orbitally-iOS-WWDC19), [YouTube](https://www.youtube.com/watch?v=LrvdOtkK2WA)  SceneKit, Metal, MetalKit, ARKit</sub>|Submitted|
-
