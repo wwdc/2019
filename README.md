@@ -107,6 +107,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Sam Eckert](https://twitter.com/sam0711er)||[YouTube](https://youtu.be/8GhNUKteLMg)|AVFoundation, SpriteKit, Vision & CoreML|Submitted|
 |[Sergen Gönenç](https://twitter.com/sertheapplr)|[GitHub](https://github.com/sergendev/DysgraphAI)||UIKit, CoreML, Vision, Create ML|Submitted|
 |[Simon Bohnen](http://simonbohnen.me/)|[GitHub](https://github.com/simonbohnen/WWDC19-Lsystems)|[YouTube](https://www.youtube.com/watch?v=4YhSK8Fg_pE)|UIKit, Core Animation, Hype 3|Submitted|
+|[Sylvain Guillier](http://www.guilliersylvain.raidghost.com)|[GitHub](https://github.com/ElChoquito/WWDC19---WatchMaker)|[YouTube](https://youtu.be/9uW8rqiRi1I)|UIKit, AVFoundation, SceneKit|Submitted|
 |[Swapnanil Dhol](https://twitter.com/swapnanildhol)||[YouTube](https://www.youtube.com/watch?v=QaVC1AluGAo)|Create ML, Vision, Sprite Kit, CoreML |Submitted|
 |Theodore Conrad|[GitHub]( https://github.com/theomconrad/scaling-garbanzo)|[YouTube](https://www.youtube.com/watch?v=PUSZgLW2-Y4)||Submitted|
 |[Thijs van der Heijden](https://twitter.com/Thijsheijden)|[GitHub](https://github.com/thijsheijden/WWDC19-Playground)|[YouTube](https://www.youtube.com/watch?v=nBs5YOZ6s9Q&feature=youtu.be)|SpriteKit, GameplayKit, CoreML, Vision|Submitted|
