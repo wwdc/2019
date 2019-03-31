@@ -36,6 +36,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Carol Chen](https://carolchen.me)|[GitHub](https://github.com/kipply/sorting_algorithm_visualization_and_aurlization_in_a_swift_playground)|[YouTube](https://www.youtube.com/watch?v=-fTBJMBzVng)||Submitted|
 |[Cecily Kerns](https://twitter.com/Cecily_Kerns)|[GitHub](https://github.com/CecilyKerns/WWDC/)|[YouTube](https://youtu.be/lls2CAP4ugw)|SpriteKit, UIKit, PlaygroundBooks, Accessibility|Submitted|
 |[Celal Dogan Kaya](https://twitter.com/celaldogankaya)||[YouTube](https://youtu.be/PfozBCsdNhI)|CoreML, Vision, ARKit, Create ML|Submitted|
+|[Cibele Paulino](https://github.com/CibelePaulinoAndrade)|[GitHub](https://github.com/CibelePaulinoAndrade/WWDC2019_PlaygroundBook_CibelePaulino)|[YouTube](https://www.youtube.com/watch?v=pdgAx1aGPmA)|Playground Book, SceneKit, ARKit, AVFoundation, UIKit |Submitted|
 |Claudio Cavalli|[GitHub](https://github.com/claudioitalian12/Fireworks-WWDC19)|[YouTube](https://www.youtube.com/watch?v=wwnPXkzdjys&feature=youtu.be)|ARKit, AVFoundation, PlaygroundBook|Submitted|
 |[Cristian Garske](https://garsrepublic.com)|[GitHub](https://github.com/CristianGarske/WWDC19Submission)|[YouTube](https://youtu.be/pvmH_zNNX0k)|UIKit, SpriteKit, AVFoundation|Submitted|
 |[Daniel Gruber](https://igruber.me)|[Bitbucket](https://repo.goma-cms.org/users/daniel.gruber/repos/wwdc-2019/browse)||UIKit, PlaygroundBooks, CoreGraphics|Submitted|
@@ -47,6 +48,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Dhrumil Dhanesha](http://www.dhrumildhanesha.com/)|[GitHub](https://github.com/DhrumilDhanesha/wwdc19)|[YouTube](https://www.youtube.com/channel/UCXQJa9anuEkVlS2wpXbfM4Q?view_as=subscriber)|PlaygroundSupport, SpriteKit, Foundation, GameKit|Submitted|
 |[Dowland Aiello](https://github.com/dowlandaiello)|[GitHub](https://github.com/polaris-project/swift-polaris)|[YouTube](https://youtu.be/6CUK_pxzQ-4)|Foundation, UIKit|Submitted|
 |Denny Caruso |[GitHub](https://github.com/dennewbie/PizzaCode-Cook)|[YouTube](https://youtu.be/aVSkcdBZG14)|UIKit, AVFoundation|Submitted|
+|[Elias Paulino](https://github.com/EliasPaulinoAndrade)|[GitHub](https://github.com/EliasPaulinoAndrade/Play-Island)|[YouTube](https://www.youtube.com/watch?v=3LVg8Bo1DCg&t=34s)|Playground Book, SceneKit, SpriteKit, AVFoundation, UIKit |Submitted|
 |[Ethan Humphrey](https://twitter.com/EthanInnovator)|[GitHub](https://github.com/EthanTheInnovator/LearningMachineLearning)||Playground Book, Core ML, Vision, UIAccessibility |Submitted|
 |[Fan Bai](https://github.com/fullalien)|[GitHub](https://github.com/fullalien/WWDC19_Patternful)||UIKit, CoreGraphics|Submitted|
 |[Gabriel D'Luca](https://www.linkedin.com/in/gabriel-d-luca-340001126/) |[GitHub](https://github.com/gabrieldluca/mosaic)|[YouTube](https://www.youtube.com/watch?v=8aJH1pYvUDE)|UIKit, SceneKit, AVFoundation, CoreAnimation |Submitted|
