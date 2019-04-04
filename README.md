@@ -67,7 +67,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Harshdeep Kahlon](http://harshdeepkahlon.com/)|[GitHub](https://github.com/HarshdeepKahlon/WWDC19)||UIKit, Core Image, Foundation|Submitted|
 |[Hengyu Liu](https://liuhengyu.com/)|||ARKit|Submitted|
 |[Hengyu Zhou](https://github.com/hengyu)||[YouTube](https://www.youtube.com/watch?v=rWrB6CPTlwA&t=78s)|ARKit, CoreML, SceneKit, Vision|Submitted|
-|[Hubert Tatra](https://www.linkedin.com/in/hubert-tatra/)|[GitHub](https://github.com/hubertme/IndonesiaHeritage-WWDC)||UIKit, AVFoundation|Submitted|
+|[Hubert Tatra](https://www.linkedin.com/in/hubert-tatra/)|[GitHub](https://github.com/hubertme/IndonesiaHeritage-WWDC)|[YouTube](https://www.youtube.com/watch?v=otw49ioAm2U)|UIKit, AVFoundation|Submitted|
 |[Iqra Urooj](https://twitter.com)||[YouTube](https://youtu.be/1mGtZw9Ar1k)|SpriteKit, AVFoundation|Submitted|
 |[Isaac Rodriguez](https://koide.top/)||[Youtube](https://www.youtube.com/watch?v=S8P0UGW_RBw)|UIKit, AVFoundation|Submitted|
 |[Jacky Yu](https://twitter.com/HachimanCaptain)|[GitHub](https://github.com/CaptainYukinoshitaHachiman/Cryptography-and-Privacy)|[YouTube](https://youtu.be/nsK-6ZIX3pQ)<br>[bilibili](https://www.bilibili.com/video/av47867965/)|UIKit, Security, CommonCrypto|Submitted|
