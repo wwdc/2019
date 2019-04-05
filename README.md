@@ -95,7 +95,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Maulana Rizal Hilman](https://www.khilman.com)|[GitHub](https://github.com/drawrs/WWDC19-Submission-SandCastle-Game)|[YouTube](https://youtu.be/SVYPdaOCv_4)|UIKit, AVFoundation, GestureRecognizer|Submitted|
 |[Mehul Mohan](https://twitter.com/mehulmpt)|[GitHub](https://github.com/mehulmpt/wwdc-2019)|[YouTube](https://www.youtube.com/watch?v=owGuqiHHJI8&feature=youtu.be)|SceneKit, ARKit, UIKit, AVFoundation|Submitted|
 |[Michael Dugan](https://www.linkedin.com/in/michael-dugan-733764177/)|||AVFoundation, UIKit|Submitted|
-|Minhyuk Kim|[GitHub](https://github.com/mininny/WWDC19)||ARKit, SpriteKit, AVFoundation, UIKit|Submitted|
+|Minhyuk Kim|[GitHub](https://github.com/mininny/WWDC19)|[YouTube](https://youtu.be/HpQwxVZfzTA)|ARKit, SpriteKit, AVFoundation, UIKit|Submitted|
 |[Mohamed Salah](https://mohasalah.com)|[GitHub](https://github.com/mohasalahh/WWDC19-Scholarship-Submission)|[YouTube](https://www.youtube.com/watch?v=bH9FwLSS1LA)|CoreML, CreateML, CoreGraphics, UIKit|Submitted|
 |[Muhammad Dary Azhari](https://stackoverflow.com/users/5834822/dary)||[YouTube](https://www.youtube.com/watch?v=8B2iL92U58Q)|UIKit, AVFoundation|Submitted|
 |[Nicholas Grana](https://twitter.com/nicholasgranaa)|[GitHub](https://github.com/Nicholas714/WWDC-2019)|[YouTube](https://youtu.be/yf3cmby82N4)|ARKit, SceneKit, SpriteKit, UIKit|Submitted|
