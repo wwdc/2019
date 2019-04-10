@@ -43,6 +43,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Celal Dogan Kaya](https://twitter.com/celaldogankaya)||[YouTube](https://youtu.be/PfozBCsdNhI)|CoreML, Vision, ARKit, Create ML|Submitted|
 |[Charles Truluck](https://www.twitter.com/charlestruluck_)|[GitHub](https://github.com/charlestruluck/WWDC19)||CommonCrypto, UIKit, SceneKit|Submitted|
 |[Chase Clark](https://www.instagram.com/chaseclark_dev)|[GitHub](https://github.com/ChaseClark-Dev/Draw-ML)||CoreML, UIKit, CreateML, CoreQuartz|Submitted|
+|[Chris Leonard](https://www.twitter.com/chrisleonard23)|[GitHub](https://github.com/crleonard)||UIKit, SpriteKit |Submitted|
 |[Cibele Paulino](https://github.com/CibelePaulinoAndrade)|[GitHub](https://github.com/CibelePaulinoAndrade/WWDC2019_PlaygroundBook_CibelePaulino)|[YouTube](https://www.youtube.com/watch?v=pdgAx1aGPmA)|SceneKit, ARKit, AVFoundation, UIKit |Submitted|
 |Claudio Cavalli|[GitHub](https://github.com/claudioitalian12/Fireworks-WWDC19)|[YouTube](https://www.youtube.com/watch?v=wwnPXkzdjys&feature=youtu.be)|ARKit, AVFoundation, PlaygroundBook|Submitted|
 |[Cristian Garske](https://garsrepublic.com)|[GitHub](https://github.com/CristianGarske/WWDC19Submission)|[YouTube](https://youtu.be/pvmH_zNNX0k)|UIKit, SpriteKit, AVFoundation|Submitted|
