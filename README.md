@@ -79,6 +79,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Hubert Tatra](https://www.linkedin.com/in/hubert-tatra/)|[GitHub](https://github.com/hubertme/IndonesiaHeritage-WWDC)|[YouTube](https://www.youtube.com/watch?v=TU1rTgtRy-E)|UIKit, AVFoundation|Submitted|
 |[Iqra Urooj](https://twitter.com)||[YouTube](https://youtu.be/1mGtZw9Ar1k)|SpriteKit, AVFoundation|Submitted|
 |[Isaac Rodriguez](https://koide.top/)||[Youtube](https://www.youtube.com/watch?v=S8P0UGW_RBw)|UIKit, AVFoundation|Submitted|
+|[Junaid Abdurahman](https://twitter.com/junaidxabd)||[YouTube](https://youtu.be/Cc5GZSAJ_hQ)|SceneKit, UIKit, CoreMotion, AVFoundation|Submitted|
 |[Jacky Yu](https://twitter.com/HachimanCaptain)|[GitHub](https://github.com/CaptainYukinoshitaHachiman/Cryptography-and-Privacy)|[YouTube](https://youtu.be/nsK-6ZIX3pQ)<br>[bilibili](https://www.bilibili.com/video/av47867965/)|UIKit, Security, CommonCrypto|Submitted|
 |[Jahanzeb Jabbar](https://twitter.com/Jahanzeb_me4u)|[GitHub](https://github.com/jahanzeb-j/CodeWorld)|[YouTube](https://youtu.be/9WfrwX6ebVI)|SpriteKit, GameplayKit, CoreMotion, AVFoundation|Submitted|
 |jamfly|[GitHub](https://github.com/jamfly/WWDC-2019)||CoreML, NaturalLanguage, ImageIO, Vision|Submitted|
