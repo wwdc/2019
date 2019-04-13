@@ -79,7 +79,6 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Hubert Tatra](https://www.linkedin.com/in/hubert-tatra/)|[GitHub](https://github.com/hubertme/IndonesiaHeritage-WWDC)|[YouTube](https://www.youtube.com/watch?v=TU1rTgtRy-E)|UIKit, AVFoundation|Submitted|
 |[Iqra Urooj](https://twitter.com)||[YouTube](https://youtu.be/1mGtZw9Ar1k)|SpriteKit, AVFoundation|Submitted|
 |[Isaac Rodriguez](https://koide.top/)||[Youtube](https://www.youtube.com/watch?v=S8P0UGW_RBw)|UIKit, AVFoundation|Submitted|
-|[Junaid Abdurahman](https://twitter.com/junaidxabd)||[YouTube](https://youtu.be/Cc5GZSAJ_hQ)|SceneKit, UIKit, CoreMotion, AVFoundation|Submitted|
 |[Jacky Yu](https://twitter.com/HachimanCaptain)|[GitHub](https://github.com/CaptainYukinoshitaHachiman/Cryptography-and-Privacy)|[YouTube](https://youtu.be/nsK-6ZIX3pQ)<br>[bilibili](https://www.bilibili.com/video/av47867965/)|UIKit, Security, CommonCrypto|Submitted|
 |[Jahanzeb Jabbar](https://twitter.com/Jahanzeb_me4u)|[GitHub](https://github.com/jahanzeb-j/CodeWorld)|[YouTube](https://youtu.be/9WfrwX6ebVI)|SpriteKit, GameplayKit, CoreMotion, AVFoundation|Submitted|
 |jamfly|[GitHub](https://github.com/jamfly/WWDC-2019)||CoreML, NaturalLanguage, ImageIO, Vision|Submitted|
@@ -88,6 +87,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[John Palevich](https://www.instagram.com/johnpalevich/)|[GitHub](https://github.com/JohnPalevich/wwdc2019submission)||ARKit, SceneKit, UIKit, Wings3D|Submitted|
 |[Jordan Osterberg](https://twitter.com/OsterbergJordan)|[GitHub](https://github.com/JordanOsterberg/wwdc/)|[YouTube](https://www.youtube.com/watch?v=G4_Do_m50NQ)|SpriteKit, UIKit, PlaygroundBooks, Accessibility|Submitted|
 |[Julian Schiavo](https://twitter.com/justjs_dev)|[GitHub](https://github.com/justJS/wwdc/tree/master/2019)|[YouTube](https://www.youtube.com/watch?v=dIYKp80OxE8)|AVFoundation, Core Image, UIKit|Submitted|
+|[Junaid Abdurahman](https://twitter.com/junaidxabd)||[YouTube](https://youtu.be/Cc5GZSAJ_hQ)|SceneKit, UIKit, CoreMotion, AVFoundation|Submitted|
 |Kamil Strzelecki|[GitHub](https://github.com/NSFatalError/Assistant)|[YouTube](https://youtu.be/D22HrNFokFw)|AppKit, CoreAnimation, CoreML, NaturalLanguage|Submitted|
 |[Kanishka](https://www.instagram.com/ralasi_code)||[YouTube](https://www.youtube.com/watch?v=54wndSzKW_E&t=38s)|UIKit, AVFoundation|Submitted|
 |[Kevin Schaefer](https://www.schaefkn.com)|[GitHub](https://github.com/schaefkn/WWDC19)||ARKit, SceneKit, SpriteKit, AVFoundation|Submitted|
