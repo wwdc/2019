@@ -102,7 +102,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |Mansi Gandhi|[GitHub](https://github.com/mansimg/-WWDC-2019-Scholarship-Submission-Green-Sort)|[YouTube](https://youtu.be/kx9YG04_0JQ)|SpriteKit, UIKit|Submitted|
 |[Mark Bruckert](https://twitter.com/Mark_Bruckert)|[GitHub](https://github.com/mbruckert/WWDC-2019-Apple-TV)|[YouTube](https://youtu.be/mr5sKyyi4Pc)|UIKit, AVKit|Submitted|
 |Marco Tammaro|[GitHub](https://github.com/marcotammaro/WWDC19.git)|[YouTube](https://youtu.be/ELh54nK4Deg)|UIKit, SpriteKit, AVFoundation|Submitted|
-|[Marko Crnkovic](https://www.mbobpro.com)|[Github](https://www.github.com/chih98/wwdc2019)| Youtube Coming Soon | SpriteKit, AVFoundation|Submitted|
+|[Marko Crnkovic](https://www.mbobpro.com)|[Github](https://www.github.com/chih98/wwdc2019)| [Youtube](https://www.youtube.com/watch?v=24s-EoxZg0E) | SpriteKit, AVFoundation|Submitted|
 |[Mason Dierkes](http://swiftlydierkes.com)|[GitHub](https://github.com/mjdierkes/WWDC-Submision-2019)|[YouTube](https://youtu.be/xl9oXIv08Jc)|SpriteKit, UIKit, ARKit, SceneKit|Submitted|
 |[Matej Plavevski](https://github.com/matejmecka)|[GitHub](https://github.com/MatejMecka/mr.Recyclo-Trashowski/)||UIKit, CoreML, AVFoundation, WebKit|Submitted|
 |[Matthew Kim](https://www.youtube.com/channel/UCi6VkPnL8sh_9wvu7ndDZig)|[GitHub](https://github.com/mjaydenkim/wwdcsubmission19)|[YouTube](https://www.youtube.com/watch?v=G4AFukITt_k&t=1s)|UIKit, AVFoundation|Submitted|
