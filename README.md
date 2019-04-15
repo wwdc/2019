@@ -49,7 +49,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Cibele Paulino](https://github.com/CibelePaulinoAndrade)|[GitHub](https://github.com/CibelePaulinoAndrade/WWDC2019_PlaygroundBook_CibelePaulino)|[YouTube](https://www.youtube.com/watch?v=pdgAx1aGPmA)|SceneKit, ARKit, AVFoundation, UIKit |Submitted|
 |Claudio Cavalli|[GitHub](https://github.com/claudioitalian12/Fireworks-WWDC19)|[YouTube](https://www.youtube.com/watch?v=wwnPXkzdjys&feature=youtu.be)|ARKit, AVFoundation, PlaygroundBook|Submitted|
 |[Cristian Garske](https://garsrepublic.com)|[GitHub](https://github.com/CristianGarske/WWDC19Submission)|[YouTube](https://youtu.be/pvmH_zNNX0k)|UIKit, SpriteKit, AVFoundation|Submitted|
-|[Daniel Dorazio]()|[GitHub](https://github.com/dandorazz/wwdc19)||UIKit, SpriteKit|Submitted|
+|[Daniel Dorazio](https://www.instagram.com/danny.dorazio/)|[GitHub](https://github.com/dandorazz/wwdc19)||UIKit, SpriteKit|Submitted|
 |[Daniel Gruber](https://igruber.me)|[Bitbucket](https://repo.goma-cms.org/users/daniel.gruber/repos/wwdc-2019/browse)||UIKit, PlaygroundBooks, CoreGraphics|Submitted|
 |[Daniel Riege](https://www.instagram.com/danielriege/)|[GitHub](https://github.com/danielriege/WWDC19-Application)||UIKit, CommonCrypto|Submitted|
 |[Daniel Sykes-Turner](https://daniel.st)|[GitHub](https://github.com/dsykesturner/WWDC-2019-Submission)|[YouTube](https://www.youtube.com/watch?v=26A1J4NKKvw)|SpriteKit, AVFoundation, CoreMotion|Submitted|
