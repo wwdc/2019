@@ -137,6 +137,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Swapnanil Dhol](https://twitter.com/swapnanildhol)||[YouTube](https://www.youtube.com/watch?v=QaVC1AluGAo)|Create ML, Vision, Sprite Kit, CoreML |Submitted|
 |[Tanvi Khot](https://github.com/tanvikhot)|[GitHub](https://github.com/tanvikhot/SolitairePlayground)||UIKit|Submitted|
 |Theodore Conrad|[GitHub]( https://github.com/theomconrad/scaling-garbanzo)|[YouTube](https://www.youtube.com/watch?v=PUSZgLW2-Y4)||Submitted|
+|[Tejasw Gupta](https://www.instagram.com/tejasw__gupta/)|[GitHub](https://github.com/Tejaswgupta/Lucifer)|SpriteKit , UIKit|Submitted|
 |[Thijs van der Heijden](https://twitter.com/Thijsheijden)|[GitHub](https://github.com/thijsheijden/WWDC19-Playground)|[YouTube](https://www.youtube.com/watch?v=nBs5YOZ6s9Q&feature=youtu.be)|SpriteKit, GameplayKit, CoreML, Vision|Submitted|
 |[Til Blechschmidt](https://blechschmidt.de/)|[GitHub](https://github.com/TheMegaTB/wwdc19)|[YouTube](https://youtu.be/B5lTHnmi7bw)|SpriteKit|Submitted|
 |[Tom Xue](https://twitter.com/xueyuanhui)||[YouTube](https://www.youtube.com/watch?v=hiTwRrrfHLU)|SceneKit, ARKit, Core Image, CoreML|Submitted|
