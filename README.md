@@ -52,7 +52,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Daniel Dorazio](https://www.instagram.com/danny.dorazio/)|[GitHub](https://github.com/dandorazz/wwdc19)||UIKit, SpriteKit|Rejected|
 |[Daniel Gruber](https://igruber.me)|[Bitbucket](https://repo.goma-cms.org/users/daniel.gruber/repos/wwdc-2019/browse)||UIKit, PlaygroundBooks, CoreGraphics|Submitted|
 |[Daniel Riege](https://www.instagram.com/danielriege/)|[GitHub](https://github.com/danielriege/WWDC19-Application)||UIKit, CommonCrypto|Submitted|
-|[Daniel Sykes-Turner](https://daniel.st)|[GitHub](https://github.com/dsykesturner/WWDC-2019-Submission)|[YouTube](https://www.youtube.com/watch?v=26A1J4NKKvw)|SpriteKit, AVFoundation, CoreMotion|Submitted|
+|[Daniel Sykes-Turner](https://daniel.st)|[GitHub](https://github.com/dsykesturner/WWDC-2019-Submission)|[YouTube](https://www.youtube.com/watch?v=26A1J4NKKvw)|SpriteKit, AVFoundation, CoreMotion|Accepted|
 |[Daniel Wang](https://danielwang.dev)|||PlaygroundBooks, SceneKit, AVFoundation|Submitted|
 |[Darshil Patel](https://darshilpatel.com)||[YouTube](https://www.youtube.com/watch?v=GUPvFbPov20)|SpriteKit, ARKit, AVFoundation|Submitted|
 |[Davide Tarantino](https://www.linkedin.com/in/davide-tarantino-b6a08a17a/)|[GitHub](https://github.com/davix93/TheTuringMachine-WWDC19)|[YouTube](https://youtu.be/NY6P2ktaJx4)|PlaygroundBook, SpriteKit, UIKit|Submitted|
