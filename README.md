@@ -87,6 +87,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Jacky Yu](https://twitter.com/HachimanCaptain)|[GitHub](https://github.com/CaptainYukinoshitaHachiman/Cryptography-and-Privacy)|[YouTube](https://youtu.be/nsK-6ZIX3pQ)<br>[bilibili](https://www.bilibili.com/video/av47867965/)|UIKit, Security, CommonCrypto|Submitted|
 |[Jahanzeb Jabbar](https://twitter.com/Jahanzeb_me4u)|[GitHub](https://github.com/jahanzeb-j/CodeWorld)|[YouTube](https://youtu.be/9WfrwX6ebVI)|SpriteKit, GameplayKit, CoreMotion, AVFoundation|Submitted|
 |jamfly|[GitHub](https://github.com/jamfly/WWDC-2019)||CoreML, NaturalLanguage, ImageIO, Vision|Rejected|
+|[Jari Koopman](https://twitter.com/LotUDev)|[GitHub](https://github.com/MrLotU/WWDC19)||CoreMotion, SpriteKit|Accepted|
 |[Jiaqi Liu](https://twitter.com/tuzi_moe)|||SpriteKit, ARKit, UIKit, CoreML|Submitted|
 |[John Ciocca](https://www.twitter.com/JohnCiocca)|||UIKit, SpriteKit, CoreML, AVFoundation|Submitted|
 |[John Palevich](https://www.instagram.com/johnpalevich/)|[GitHub](https://github.com/JohnPalevich/wwdc2019submission)||ARKit, SceneKit, UIKit, Wings3D|Submitted|
