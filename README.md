@@ -124,7 +124,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Mohamed Salah](https://mohasalah.com)|[GitHub](https://github.com/mohasalahh/WWDC19-Scholarship-Submission)|[YouTube](https://www.youtube.com/watch?v=bH9FwLSS1LA)|CoreML, CreateML, CoreGraphics, UIKit|Accepted|
 |[Muhammad Dary Azhari](https://stackoverflow.com/users/5834822/dary)||[YouTube](https://www.youtube.com/watch?v=8B2iL92U58Q)|UIKit, AVFoundation|Submitted|
 |[Nicholas Grana](https://twitter.com/nicholasgranaa)|[GitHub](https://github.com/Nicholas714/WWDC-2019)|[YouTube](https://youtu.be/yf3cmby82N4)|ARKit, SceneKit, SpriteKit, UIKit|Accepted|
-|[Niklas Buelow](https://twitter.com/niklasbuelow)|[GitHub](https://github.com/insightmind/WWDC19Scholarship)||SpriteKit, AVFoundation, UIKit, CoreGraphics|Submitted|
+|[Niklas Buelow](https://twitter.com/niklasbuelow)|[GitHub](https://github.com/insightmind/WWDC19Scholarship)||SpriteKit, AVFoundation, UIKit, CoreGraphics|Accepted|
 |[Niklas Korzeniewski](https://www.twitter.com/derNiklaas)|[GitHub](https://github.com/derNiklaas/Fruit-Smasher)||SpriteKit|Submitted|
 |[Oksana Bolibok](https://www.linkedin.com/in/oksana-bolibok-1ba8a9165/)|[GitHub](https://github.com/Rok-sana/WWDC19-LogicBoard)|[YouTube](https://youtu.be/vs4REdz2i_w)|ARKit, SpriteKit, Foundation, UIKit|Submitted|
 |[Omer Gulen](https://twitter.com/omergulenn)|[GitHub](https://github.com/omergulen/wwdc19)|Soon|UIKit, CoreAnimation|Submitted|
