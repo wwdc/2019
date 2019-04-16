@@ -119,7 +119,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Mehul Mohan](https://twitter.com/mehulmpt)|[GitHub](https://github.com/mehulmpt/wwdc-2019)|[YouTube](https://www.youtube.com/watch?v=owGuqiHHJI8&feature=youtu.be)|SceneKit, ARKit, UIKit, AVFoundation|Accepted|
 |[Michael Bernard](https://www.linkedin.com/in/michaelbnd/)|[GitHub](https://github.com/michaelbnd/wwdc-SpaceEnergy)|[YouTube](https://www.youtube.com/watch?v=sIAE1Bo9Bgc)|SpriteKit, Foundation|Rejected|
 |[Michael Dugan](https://www.linkedin.com/in/michael-dugan-733764177/)|||AVFoundation, UIKit|Submitted|
-|[Mingyuan Hu](https://github.com/miamiaH)||[YouTube](https://www.youtube.com/watch?v=7PZi3lce_Pw)|ARKit, SceneKit, SpriteKit, Vision| Submitted|
+|[Mingyuan Hu](https://github.com/miamiaH)||[YouTube](https://www.youtube.com/watch?v=7PZi3lce_Pw)|ARKit, SceneKit, SpriteKit, Vision| Rejected|
 |Minhyuk Kim|[GitHub](https://github.com/mininny/WWDC19)|[YouTube](https://youtu.be/HpQwxVZfzTA)|ARKit, SpriteKit, AVFoundation, UIKit|Submitted|
 |[Mohamed Salah](https://mohasalah.com)|[GitHub](https://github.com/mohasalahh/WWDC19-Scholarship-Submission)|[YouTube](https://www.youtube.com/watch?v=bH9FwLSS1LA)|CoreML, CreateML, CoreGraphics, UIKit|Accepted|
 |[Muhammad Dary Azhari](https://stackoverflow.com/users/5834822/dary)||[YouTube](https://www.youtube.com/watch?v=8B2iL92U58Q)|UIKit, AVFoundation|Submitted|
