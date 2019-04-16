@@ -97,7 +97,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Junaid Abdurahman](https://twitter.com/junaidxabd)||[YouTube](https://youtu.be/Cc5GZSAJ_hQ)|SceneKit, UIKit, CoreMotion, AVFoundation|Submitted|
 |Kamil Strzelecki|[GitHub](https://github.com/NSFatalError/Assistant)|[YouTube](https://youtu.be/D22HrNFokFw)|AppKit, CoreAnimation, CoreML, NaturalLanguage|Submitted|
 |[Kanishka](https://www.instagram.com/ralasi_code)||[YouTube](https://www.youtube.com/watch?v=54wndSzKW_E&t=38s)|UIKit, AVFoundation|Accepted|
-|[Kevin Schaefer](https://www.schaefkn.com)|[GitHub](https://github.com/schaefkn/WWDC19)||ARKit, SceneKit, SpriteKit, AVFoundation|Submitted|
+|[Kevin Schaefer](https://www.schaefkn.com)|[GitHub](https://github.com/schaefkn/WWDC19)||ARKit, SceneKit, SpriteKit, AVFoundation|Accepted|
 |[Kristof Kocsis](https://kristofk.com)|[GitHub](https://github.com/kristofk/WWDC19-Submission-Public)|[YouTube](https://youtu.be/95BlKKj23no)|UIKit, CoreGraphics, PlaygroundBooks|
 |[Kyoya Yamaguchi](https://twitter.com/kyoya1123)|[GitHub](https://github.com/kyoya1123/Breakout3D)|[YouTube](https://youtu.be/u520SAMfV6s)|UIKit, ARKit, SceneKit, AVFoundation|Submitted|
 |[Lachlan Bell](https://lachy.io)|[GitHub](https://github.com/lachlanbell/WWDC19)|[YouTube](https://youtu.be/p_SrgzPHf_Y)|ARKit, Model I/O, SceneKit, UIKit|Submitted|
