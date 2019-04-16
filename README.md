@@ -20,7 +20,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 | Name | Source |    Videos    | Technologies | Status |
 |------|--------|--------------|--------------|--------|
 |[Aaron Cheung](https://twitter.com/Aaron_Cheung430)|[GitHub](https://github.com/AaronCheung430/WWDC2019)|Coming soon|ARKit, SceneKit, AVFoundation, Foundation|Submitted|
-|[Adrian Kashivskyy](https://twitter.com/akashivskyy)|[GitHub](https://github.com/akashivskyy/wwdc-sight)||AVFoundation, CoreImage, CoreLocation, Metal|Submitted|
+|[Adrian Kashivskyy](https://twitter.com/akashivskyy)|[GitHub](https://github.com/akashivskyy/wwdc-sight)||AVFoundation, CoreImage, CoreLocation, Metal|Accepted|
 |[Adrian Labbé](https://twitter.com/develobile)|[GitHub](https://github.com/ColdGrub1384/WWDC19)|[Instagram](https://www.instagram.com/tv/BvaK4DOBrOA)|UIKit, Drag & Drop|Submitted|
 |[Alessandro Minopoli](https://www.linkedin.com/in/alessandro-minopoli/)|[GitHub](https://github.com/alex010x/WeReunited)|[Youtube](https://www.youtube.com/watch?v=EAq9ehyH_LY)|PlaygroundBook, SpriteKit, CoreML, Vision|Submitted|
 |[Alex Danilenko](https://twitter.com/Alexsey333)|[GitHub](https://github.com/Alexsey333/wwdc19)|[Youtube](https://youtu.be/_MEUeRppeWc)|SceneKit|Submitted|
