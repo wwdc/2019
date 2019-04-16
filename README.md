@@ -100,6 +100,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Kristof Kocsis](https://kristofk.com)|[GitHub](https://github.com/kristofk/WWDC19-Submission-Public)|[YouTube](https://youtu.be/95BlKKj23no)|UIKit, CoreGraphics, PlaygroundBooks|
 |[Kyoya Yamaguchi](https://twitter.com/kyoya1123)|[GitHub](https://github.com/kyoya1123/Breakout3D)|[YouTube](https://youtu.be/u520SAMfV6s)|UIKit, ARKit, SceneKit, AVFoundation|Submitted|
 |[Lachlan Bell](https://lachy.io)|[GitHub](https://github.com/lachlanbell/WWDC19)|[YouTube](https://youtu.be/p_SrgzPHf_Y)|ARKit, Model I/O, SceneKit, UIKit|Submitted|
+|[Lalo Martínez](https://github.com/lalomts)|[GitHub](https://github.com/lalomts/Flip)|[YouTube](https://youtu.be/nh9yuhgATsM)|SpriteKit, TouchBar|Accepted|
 |[Lennart Kerkvliet](https://www.instagram.com/lennartkerkvliet/)||[YouTube](https://www.youtube.com/watch?v=HsaaxNWrP5Y)|ARKit, SpriteKit, UIKit (Drag and Drop), CoreMotion, AVFoundation|Submitted|
 |[Liam Rosenfeld](https://liamrosenfeld.com)|[Github](https://github.com/liamrosenfeld/FourierArtist)||SpriteKit, AppKit, Foundation|Accepted|
 |[Linh Bouniol](https://twitter.com/linhbouniol)||[YouTube](https://www.youtube.com/watch?v=XywaVKxTnys)|CoreML, CreateML, Vision, AVFoundation|Submitted|
