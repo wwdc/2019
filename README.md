@@ -116,7 +116,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Matthew Kim](https://www.youtube.com/channel/UCi6VkPnL8sh_9wvu7ndDZig)|[GitHub](https://github.com/mjaydenkim/wwdcsubmission19)|[YouTube](https://www.youtube.com/watch?v=G4AFukITt_k&t=1s)|UIKit, AVFoundation|Rejected|
 |[Maulana Rizal Hilman](https://www.khilman.com)|[GitHub](https://github.com/drawrs/WWDC19-Submission-SandCastle-Game)|[YouTube](https://youtu.be/SVYPdaOCv_4)|UIKit, AVFoundation, GestureRecognizer|Submitted|
 |Max Härtwig|[GitHub](https://github.com/Vyax/WWDC-2019-Saving-our-Planet)||SceneKit, PlaygroundBooks|Accepted|
-|[Mehul Mohan](https://twitter.com/mehulmpt)|[GitHub](https://github.com/mehulmpt/wwdc-2019)|[YouTube](https://www.youtube.com/watch?v=owGuqiHHJI8&feature=youtu.be)|SceneKit, ARKit, UIKit, AVFoundation|Submitted|
+|[Mehul Mohan](https://twitter.com/mehulmpt)|[GitHub](https://github.com/mehulmpt/wwdc-2019)|[YouTube](https://www.youtube.com/watch?v=owGuqiHHJI8&feature=youtu.be)|SceneKit, ARKit, UIKit, AVFoundation|Accepted|
 |[Michael Bernard](https://www.linkedin.com/in/michaelbnd/)|[GitHub](https://github.com/michaelbnd/wwdc-SpaceEnergy)|[YouTube](https://www.youtube.com/watch?v=sIAE1Bo9Bgc)|SpriteKit, Foundation|Rejected|
 |[Michael Dugan](https://www.linkedin.com/in/michael-dugan-733764177/)|||AVFoundation, UIKit|Submitted|
 |[Mingyuan Hu](https://github.com/miamiaH)||[YouTube](https://www.youtube.com/watch?v=7PZi3lce_Pw)|ARKit, SceneKit, SpriteKit, Vision| Submitted|
