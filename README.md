@@ -32,7 +32,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Andy Jiehan Aldicho](https://twitter.com/scitsiugnil)|[GitHub](https://github.com/jiehanAldicho/WWDC2019)||SpriteKit, GameplayKit, Appkit|Submitted|
 |[Anthony Li](https://anli.dev)|[GitHub](https://github.com/anli5005/bubble-tea-playground)||SceneKit, SpriteKit, CoreGraphics|Submitted|
 |[Archer Gardiner-Sheridan](https://twitter.com/Archergs14)|[GitHub](https://github.com/archergs/WWDC2019Submission)||SpriteKit, AppKit|Submitted|
-|[Arnaud Nommay](https://www.linkedin.com/in/arnaud-nommay/)|[GitHub](https://github.com/Armay2/WWC19-Scholarship-Submission)|[YouTube](https://www.youtube.com/watch?v=3S-ImTCCmEI)|SpriteKit, Foundation|Submitted|
+|[Arnaud Nommay](https://www.linkedin.com/in/arnaud-nommay/)|[GitHub](https://github.com/Armay2/WWC19-Scholarship-Submission)|[YouTube](https://www.youtube.com/watch?v=3S-ImTCCmEI)|SpriteKit, Foundation|Rejected|
 |[Arved Viehweger](https://twitter.com/arvedviehweger)|[GitHub](https://github.com/arvedviehweger/WWDC2019)|[YouTube](https://www.youtube.com/watch?v=U0UI_ozRLRQ)|UIKit, Foundation, AVFoundation|Submitted|
 |[Aurther Nadeem](https://www.instagram.com/aurther_nadeem/?hl=en)|||ARKit, Core Animation, AVFoundation, UIKit|Submitted|
 |[Ayoob Nazeem](https://github.com/Ayoob7/)|[GitHub](https://github.com/Ayoob7/hashing-functions-swift-playgrounds)|[Youtube](https://www.youtube.com/watch?v=qtJhLRvTBi8&feature=youtu.be)|SpriteKit, UIKit, Foundation|Submitted|
