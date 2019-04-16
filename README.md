@@ -101,7 +101,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Thijs van der Heijden](https://twitter.com/Thijsheijden)|[GitHub](https://github.com/thijsheijden/WWDC19-Playground)|[YouTube](https://www.youtube.com/watch?v=nBs5YOZ6s9Q&feature=youtu.be)|SpriteKit, GameplayKit, CoreML, Vision|Submitted|
 |[Til Blechschmidt](https://blechschmidt.de/)|[GitHub](https://github.com/TheMegaTB/wwdc19)|[YouTube](https://youtu.be/B5lTHnmi7bw)|SpriteKit|Submitted|
 |[Tom Xue](https://twitter.com/xueyuanhui)||[YouTube](https://www.youtube.com/watch?v=hiTwRrrfHLU)|SceneKit, ARKit, Core Image, Core ML|Submitted|
-|[Tymofii Hazhyi](https://www.facebook.com/imorfey.ua)|[GitHub](https://github.com/morfey/ColorBlind-Pads-WWDC-2019)|[YouTube](https://youtu.be/zAqMagTbUz8)|AVFoundation, UIKit|Submitted|
+|[Tymofii Hazhyi](https://www.facebook.com/imorfey.ua)|[GitHub](https://github.com/morfey/ColorBlind-Pads-WWDC-2019)|[YouTube](https://youtu.be/zAqMagTbUz8)|AVFoundation, UIKit|Accepted|
 |[Valentin Silvera](https://twitter.com/ValentinSilvera)|[GitHub](https://github.com/valentinsilvera/cpar)|[YouTube](https://youtu.be/ds_5r9jXJ8Q)|ARKit, SceneKit, UIKit, PlaygroundBooks|Submitted|
 |[Viet Duc Nguyen](https://github.com/geniegeist)|[GitHub](https://github.com/geniegeist/WWDC-2019)|[YouTube](https://youtu.be/Hm-24Ha2z0o)|UIKit, CoreGraphics|Submitted|
 |[Veit Progl](https://twitter.com/voxelvoxels)|[GitHub](https://github.com/Veeit/wwdc-2019)|[YouTube](https://www.youtube.com/watch?v=vyyqGDmHQ9Q)|CoreML, UIKit, Keras, PlaygroundBooks|Submitted|
