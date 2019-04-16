@@ -123,6 +123,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |Minhyuk Kim|[GitHub](https://github.com/mininny/WWDC19)|[YouTube](https://youtu.be/HpQwxVZfzTA)|ARKit, SpriteKit, AVFoundation, UIKit|Submitted|
 |[Mohamed Salah](https://mohasalah.com)|[GitHub](https://github.com/mohasalahh/WWDC19-Scholarship-Submission)|[YouTube](https://www.youtube.com/watch?v=bH9FwLSS1LA)|CoreML, CreateML, CoreGraphics, UIKit|Accepted|
 |[Muhammad Dary Azhari](https://stackoverflow.com/users/5834822/dary)||[YouTube](https://www.youtube.com/watch?v=8B2iL92U58Q)|UIKit, AVFoundation|Submitted|
+|[Naman Bishnoi](https://lucidex.co)|[GitHub](https://github.com/diabloxenon/Race-Against-Time)||ARKit, SceneKit, AVFoundation, CoreMotion, UIKit|Submitted|
 |[Nicholas Grana](https://twitter.com/nicholasgranaa)|[GitHub](https://github.com/Nicholas714/WWDC-2019)|[YouTube](https://youtu.be/yf3cmby82N4)|ARKit, SceneKit, SpriteKit, UIKit|Accepted|
 |[Niklas Buelow](https://twitter.com/niklasbuelow)|[GitHub](https://github.com/insightmind/WWDC19Scholarship)||SpriteKit, AVFoundation, UIKit, CoreGraphics|Submitted|
 |[Niklas Korzeniewski](https://www.twitter.com/derNiklaas)|[GitHub](https://github.com/derNiklaas/Fruit-Smasher)||SpriteKit|Submitted|
