@@ -22,6 +22,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Aaron Cheung](https://twitter.com/Aaron_Cheung430)|[GitHub](https://github.com/AaronCheung430/WWDC2019)|[Youtube](https://youtu.be/0y0bctNM1yY)|ARKit, SceneKit, AVFoundation, Foundation|Accepted|
 |[Adrian Kashivskyy](https://twitter.com/akashivskyy)|[GitHub](https://github.com/akashivskyy/wwdc-sight)||AVFoundation, CoreImage, CoreLocation, Metal|Accepted|
 |[Adrian Labbé](https://twitter.com/develobile)|[GitHub](https://github.com/ColdGrub1384/WWDC19)|[Instagram](https://www.instagram.com/tv/BvaK4DOBrOA)|UIKit, Drag & Drop|Submitted|
+|[Alessandro Alberti](https://www.facebook.com/alessandro.alberti.1614)||[YouTube](https://youtu.be/xwGMqdJtqyQ)|SpriteKit, GameplayKit, ARKit, SceneKit|Rejected|
 |[Alessandro Minopoli](https://www.linkedin.com/in/alessandro-minopoli/)||[Youtube](https://www.youtube.com/watch?v=EAq9ehyH_LY)|PlaygroundBook, SpriteKit, CoreML, Vision|Rejected|
 |[Alex Danilenko](https://twitter.com/Alexsey333)|[GitHub](https://github.com/Alexsey333/wwdc19)|[Youtube](https://youtu.be/_MEUeRppeWc)|SceneKit|Submitted|
 |[Alexander Zank](https://twitter.com/alexlikeplus)|[GitHub](https://github.com/AlexLike/WWDC19Playground)|[Youtube](https://youtu.be/3lVUhAldC9Q)|UIKit Dynamics, AVFoundation, ARKit, SceneKit|Accepted|
