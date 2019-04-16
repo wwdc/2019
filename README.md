@@ -43,7 +43,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Carol Chen](https://carolchen.me)|[GitHub](https://github.com/kipply/sorting_algorithm_visualization_and_aurlization_in_a_swift_playground)|[YouTube](https://www.youtube.com/watch?v=-fTBJMBzVng)||Submitted|
 |[Cecily Kerns](https://twitter.com/Cecily_Kerns)|[GitHub](https://github.com/CecilyKerns/WWDC/)|[YouTube](https://youtu.be/lls2CAP4ugw)|SpriteKit, UIKit, PlaygroundBooks, Accessibility|Submitted|
 |[Celal Dogan Kaya](https://twitter.com/celaldogankaya)||[YouTube](https://youtu.be/PfozBCsdNhI)|CoreML, Vision, ARKit, Create ML|Submitted|
-|[Charles Truluck](https://www.twitter.com/charlestruluck_)|[GitHub](https://github.com/charlestruluck/WWDC19)||CommonCrypto, UIKit, SceneKit|Submitted|
+|[Charles Truluck](https://www.twitter.com/charlestruluck_)|[GitHub](https://github.com/charlestruluck/WWDC19)||CommonCrypto, UIKit, SceneKit|Accepted|
 |[Chase Clark](https://www.instagram.com/chaseclark_dev)|[GitHub](https://github.com/ChaseClark-Dev/Draw-ML)||CoreML, UIKit, CreateML, CoreQuartz|Submitted|
 |[Chris Leonard](https://www.twitter.com/chrisleonard23)|[GitHub](https://github.com/crleonard)||UIKit, SpriteKit |Submitted|
 |[Cibele Paulino](https://github.com/CibelePaulinoAndrade)|[GitHub](https://github.com/CibelePaulinoAndrade/WWDC2019_PlaygroundBook_CibelePaulino)|[YouTube](https://www.youtube.com/watch?v=pdgAx1aGPmA)|SceneKit, ARKit, AVFoundation, UIKit |Submitted|
