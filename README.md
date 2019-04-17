@@ -149,6 +149,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Sai Kambampati](https://twitter.com/Sai_K1065)||[YouTube](https://www.youtube.com/watch?v=QCREUCZlLd4)|UIKit, SceneKit, ARKit, CoreML|Submitted|
 |[Sam Eckert](https://twitter.com/sam0711er)||[YouTube](https://youtu.be/8GhNUKteLMg)|AVFoundation, SpriteKit, Vision & CoreML|Submitted|
 |Sandra Grujovic| [Github](https://github.com/melloskitten/my-other-half)|[YouTube](https://youtu.be/I27dVqgCQd8)|SpriteKit|Accepted|
+|Sarah-Leigh Meijers||[YouTube](https://youtu.be/3GZJXVxjSzA)|UIKit, AVFoundation|Accepted|
 |[Saumya Lahera](https://www.saumyalahera.com)||[YouTube](https://www.youtube.com/watch?v=UMcjJw7NtnA&t=14s)|SceneKit, Metal, MetalKit, Metal Shading Language, ARKit|Rejected|
 |[Sergen Gönenç](https://twitter.com/sertheapplr)|[GitHub](https://github.com/sergendev/DysgraphAI)||UIKit, CoreML, Vision, Create ML|Submitted|
 |[Simon Bohnen](http://simonbohnen.me/)|[GitHub](https://github.com/simonbohnen/WWDC19-Lsystems)|[YouTube](https://www.youtube.com/watch?v=4YhSK8Fg_pE)|UIKit, Core Animation, Hype 3|Submitted|
