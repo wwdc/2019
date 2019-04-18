@@ -58,7 +58,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Daniel Riege](https://www.instagram.com/danielriege/)|[GitHub](https://github.com/danielriege/WWDC19-Application)||UIKit, CommonCrypto|Submitted|
 |[Daniel Sykes-Turner](https://daniel.st)|[GitHub](https://github.com/dsykesturner/WWDC-2019-Submission)|[YouTube](https://www.youtube.com/watch?v=26A1J4NKKvw)|SpriteKit, AVFoundation, CoreMotion|Accepted|
 |[Daniel Wang](https://danielwang.dev)|||PlaygroundBooks, SceneKit, AVFoundation|Submitted|
-|[Darshil Patel](https://darshilpatel.com)||[YouTube](https://www.youtube.com/watch?v=GUPvFbPov20)|SpriteKit, ARKit, AVFoundation|Submitted|
+|[Darshil Patel](https://darshilpatel.com)||[YouTube](https://www.youtube.com/watch?v=GUPvFbPov20)|SpriteKit, ARKit, AVFoundation|Rejected|
 |[Davide Tarantino](https://www.linkedin.com/in/davide-tarantino-b6a08a17a/)|[GitHub](https://github.com/davix93/TheTuringMachine-WWDC19)|[YouTube](https://youtu.be/NY6P2ktaJx4)|PlaygroundBook, SpriteKit, UIKit|Submitted|
 |[Dennis Vermeulen](https://github.com/Dennissimeau)|[GitHub](https://github.com/Dennissimeau/melanomafinder)|[YouTube](https://www.youtube.com/watch?v=QU2mxqv1syE&t)|CoreML, CreateML, Vision, UIKit|Submitted|
 |[Dhrumil Dhanesha](http://www.dhrumildhanesha.com/)|[GitHub](https://github.com/DhrumilDhanesha/wwdc19)|[YouTube](https://www.youtube.com/channel/UCXQJa9anuEkVlS2wpXbfM4Q?view_as=subscriber)|PlaygroundSupport, SpriteKit, Foundation, GameKit|Submitted|
