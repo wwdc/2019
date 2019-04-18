@@ -134,7 +134,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Niklas Buelow](https://twitter.com/niklasbuelow)|[GitHub](https://github.com/insightmind/WWDC19Scholarship)||SpriteKit, AVFoundation, UIKit, CoreGraphics|Accepted|
 |[Niklas Korzeniewski](https://www.twitter.com/derNiklaas)|[GitHub](https://github.com/derNiklaas/Fruit-Smasher)||SpriteKit|Submitted|
 |[Oksana Bolibok](https://www.linkedin.com/in/oksana-bolibok-1ba8a9165/)|[GitHub](https://github.com/Rok-sana/WWDC19-LogicBoard)|[YouTube](https://youtu.be/vs4REdz2i_w)|ARKit, SpriteKit, Foundation, UIKit|Submitted|
-|[Omer Gulen](https://twitter.com/omergulenn)|[GitHub](https://github.com/omergulen/wwdc19)|Soon|UIKit, CoreAnimation|Submitted|
+|[Omer Gulen](https://twitter.com/omergulenn)|[GitHub](https://github.com/omergulen/wwdc19)||UIKit, CoreAnimation|Submitted|
 |[omrobbie](https://omrobbie.com)|[GitHub](https://github.com/omrobbie/WWDC19)|[YouTube](https://youtu.be/zgoVTi7xyJU)|UIKit, AVFoundation|Submitted|
 |[Oscar Fridh](https://www.facebook.com/oscar.fridh)|[GitHub](https://github.com/OscarFridh/ConcentrationWWDC19)||UIKit, AVFoundation|Accepted|
 |[Oscar Gorog](https://oscargorog.com)|[GitHub](https://github.com/OkiRules/WWDC19-Submission)||SpriteKit, AVFoundation, JSON Parsing|Submitted|
