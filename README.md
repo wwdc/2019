@@ -130,6 +130,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Muhammad Dary Azhari](https://stackoverflow.com/users/5834822/dary)||[YouTube](https://www.youtube.com/watch?v=8B2iL92U58Q)|UIKit, AVFoundation|Submitted|
 |[Naman Bishnoi](https://lucidex.co)|[GitHub](https://github.com/diabloxenon/Race-Against-Time)||ARKit, SceneKit, AVFoundation, CoreMotion, UIKit|Rejected|
 |[Nicholas Grana](https://twitter.com/nicholasgranaa)|[GitHub](https://github.com/Nicholas714/WWDC-2019)|[YouTube](https://youtu.be/yf3cmby82N4)|ARKit, SceneKit, SpriteKit, UIKit|Accepted|
+|[Nicholas R. Putra](https://www.linkedin.com/in/nicholas-rp/)|||UIKit, SpriteKit, AVFoundation|Accepted|
 |[Niklas Buelow](https://twitter.com/niklasbuelow)|[GitHub](https://github.com/insightmind/WWDC19Scholarship)||SpriteKit, AVFoundation, UIKit, CoreGraphics|Accepted|
 |[Niklas Korzeniewski](https://www.twitter.com/derNiklaas)|[GitHub](https://github.com/derNiklaas/Fruit-Smasher)||SpriteKit|Submitted|
 |[Oksana Bolibok](https://www.linkedin.com/in/oksana-bolibok-1ba8a9165/)|[GitHub](https://github.com/Rok-sana/WWDC19-LogicBoard)|[YouTube](https://youtu.be/vs4REdz2i_w)|ARKit, SpriteKit, Foundation, UIKit|Submitted|
