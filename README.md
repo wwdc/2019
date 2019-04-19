@@ -29,6 +29,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Alexandru Barbulescu](https://www.linkedin.com/in/barbulescualex/)|[GitHub](https://github.com/barbulescualex/BeatMatch)|[Youtube](https://youtu.be/7e6X7DzddIQ)|AVFoundation, Accelerate, Metal|Submitted|
 |[Allyson Aberg](https://www.linkedin.com/in/allysonaberg/)|[GitHub](https://github.com/allysonaberg/WWDC2019)||AVFoundation, Spritekit|Accepted|
 |Andika Leonardo|[GitHub](https://github.com/andikaleonardo/WWDC-2019-Scholarship-Submissions)||QuartzCore, UISceneKit, UIStackView, CGFloat/CGRect|Submitted|
+|[Aman Singh](https://www.linkedin.com/in/aman-singh-54753b161/)|[GitHub](https://github.com/amansingh1608/climate-app)||UIKit, Alamofire,SwiftyJSON|Accepted|
 |[Andrew Sawyer](http://andrewjsawyer.com/)|[GitHub](https://github.com/aswyer/Emotist)||SceneKit|Submitted|
 |[Andy Jiehan Aldicho](https://twitter.com/scitsiugnil)|[GitHub](https://github.com/jiehanAldicho/WWDC2019)||SpriteKit, GameplayKit, Appkit|Submitted|
 |[Andy Luo](https://github.com/AndyLuoJJ)|[GitHub](https://github.com/AndyLuoJJ/WWDC-2019-Scholarship.git)||UIKit, Foundation, CoreGraphics|Accepted|
