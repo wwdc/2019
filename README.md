@@ -141,6 +141,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |Ozan Mirza|[GitHub](https://github.com/ozanmirza1/WWDC-2019-Neural-Networks)|[Youtube](https://youtu.be/1gk3QSbFVpU)|CoreML, Vision, UIKit, QuartzCore|Submitted|
 |[Patcharapon Joksamut](https://twitter.com/Frost_Noxia)|[GitHub](https://github.com/patcharapon-j/AlgoMaze)|[YouTube](https://www.youtube.com/watch?v=m-xPh7gDT9o)|UIKit|Accepted|
 |[Peijun Weng](https://github.com/windstormeye)|[GitHub](https://github.com/windstormeye/WWDC19_brocadeOfLiNationality)||UIKit|Accepted|
+|[Pierpaolo Sepe](https://www.linkedin.com/in/pierpaolosepe/)||[YouTube](https://youtu.be/HI5lGdYwcFA)|ARKit, AVFoundation, CoreML, PlaygroundBook|Accepted|
 |[Pranav Karthik](https://twitter.com/PranavKarthik15)|[GitHub](https://github.com/ZORLAXX/WWDC19Submission)|[YouTube](https://youtu.be/dvN3aRJJju0)|ARKit, UIKit, SceneKit, AVFoundation|Accepted|
 |[Qingyang Hu](https://twitter.com/hqy_2000)|[GitHub](https://github.com/hqy2000/Railway)||SpriteKit, PlaygroundBooks|Submitted|
 |[Rafael Ferreira](https://github.com/Rafaelfferreira)|[GitHub](https://github.com/Rafaelfferreira/PlaygroundOfLife/tree/master)||UIKit|Accepted|
