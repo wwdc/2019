@@ -30,7 +30,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Allyson Aberg](https://www.linkedin.com/in/allysonaberg/)|[GitHub](https://github.com/allysonaberg/WWDC2019)||AVFoundation, Spritekit|Accepted|
 |Andika Leonardo|[GitHub](https://github.com/andikaleonardo/WWDC-2019-Scholarship-Submissions)||QuartzCore, UISceneKit, UIStackView, CGFloat/CGRect|Submitted|
 |[Andrew Sawyer](http://andrewjsawyer.com/)|[GitHub](https://github.com/aswyer/Emotist)||SceneKit|Submitted|
-|[Andy Jiehan Aldicho](https://twitter.com/scitsiugnil)|[GitHub](https://github.com/jiehanAldicho/WWDC2019)||SpriteKit, GameplayKit, Appkit|Submitted|
+|[Andy Jiehan Aldicho](https://twitter.com/scitsiugnil)|[GitHub](https://github.com/jiehanAldicho/WWDC2019)|[YouTube](https://youtu.be/PB19nN_fwYo)|SpriteKit, GameplayKit, AppKit|Accepted|
 |[Andy Luo](https://github.com/AndyLuoJJ)|[GitHub](https://github.com/AndyLuoJJ/WWDC-2019-Scholarship.git)||UIKit, Foundation, CoreGraphics|Accepted|
 |[Anthony Li](https://anli.dev)|[GitHub](https://github.com/anli5005/bubble-tea-playground)||SceneKit, SpriteKit, CoreGraphics|Submitted|
 |[Archer Gardiner-Sheridan](https://twitter.com/Archergs14)|[GitHub](https://github.com/archergs/WWDC2019Submission)||SpriteKit, AppKit|Submitted|
