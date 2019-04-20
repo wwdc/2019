@@ -90,6 +90,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Iqra Urooj](https://twitter.com)||[YouTube](https://youtu.be/1mGtZw9Ar1k)|SpriteKit, AVFoundation|Rejected|
 |[Isaac Rodriguez](https://koide.top/)||[Youtube](https://www.youtube.com/watch?v=S8P0UGW_RBw)|UIKit, AVFoundation|Accepted|
 |[Jacky Yu](https://twitter.com/HachimanCaptain)|[GitHub](https://github.com/CaptainYukinoshitaHachiman/Cryptography-and-Privacy)|[YouTube](https://youtu.be/nsK-6ZIX3pQ)<br>[bilibili](https://www.bilibili.com/video/av47867965/)|UIKit, Security, CommonCrypto|Accepted|
+|[Jacob Tilly](https://www.twitter.com/jacobtilly00/)|||UIKit|Submitted|
 |[Jahanzeb Jabbar](https://twitter.com/Jahanzeb_me4u)|[GitHub](https://github.com/jahanzeb-j/CodeWorld)|[YouTube](https://youtu.be/9WfrwX6ebVI)|SpriteKit, GameplayKit, CoreMotion, AVFoundation|Rejected|
 |jamfly|[GitHub](https://github.com/jamfly/WWDC-2019)||CoreML, NaturalLanguage, ImageIO, Vision|Rejected|
 |[Jari Koopman](https://twitter.com/LotUDev)|[GitHub](https://github.com/MrLotU/WWDC19)||CoreMotion, SpriteKit|Accepted|
@@ -102,6 +103,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Junaid Abdurahman](https://twitter.com/junaidxabd)||[YouTube](https://youtu.be/Cc5GZSAJ_hQ)|SceneKit, UIKit, CoreMotion, AVFoundation|Submitted|
 |Kamil Strzelecki|[GitHub](https://github.com/NSFatalError/Assistant)|[YouTube](https://youtu.be/D22HrNFokFw)|AppKit, CoreAnimation, CoreML, NaturalLanguage|Submitted|
 |[Kanishka](https://www.instagram.com/ralasi_code)||[YouTube](https://www.youtube.com/watch?v=54wndSzKW_E&t=38s)|UIKit, AVFoundation|Accepted|
+|[Kenan Atmaca](https://twitter.com/uikenan)|[GitHub](https://github.com/KenanAtmaca/WWDC19)||SpriteKit, UIKit|Rejected|
 |[Kevin Schaefer](https://www.schaefkn.com)|[GitHub](https://github.com/schaefkn/WWDC19)||ARKit, SceneKit, SpriteKit, AVFoundation|Accepted|
 |[Kristof Kocsis](https://kristofk.com)|[GitHub](https://github.com/kristofk/WWDC19-Submission-Public)|[YouTube](https://youtu.be/95BlKKj23no)|UIKit, CoreGraphics, PlaygroundBooks|
 |[Kyoya Yamaguchi](https://twitter.com/kyoya1123)|[GitHub](https://github.com/kyoya1123/Breakout3D)|[YouTube](https://youtu.be/u520SAMfV6s)|UIKit, ARKit, SceneKit, AVFoundation|Submitted|
@@ -192,6 +194,3 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Zach Knox](https://twitter.com/zmknox)|[GitHub](https://github.com/zmknox/WWDC19-Scholarship-Application)|[YouTube](https://www.youtube.com/watch?v=mutncT3Q3F0)|AVFoundation, Core Image, Photos, UIKit|Accepted|
 |[Ziang Qiu](https://skylove.club)|[GitHub](https://github.com/Andyshome/wwdc2019)||SpriteKit,UIKit,AVFoundation|Submitted|
 |[Zhixing Zhang](https://twitter.com/Neo_Zhixing)|[GitHub](https://github.com/Neo-Zhixing/Orbitally-iOS-WWDC19)|[YouTube](https://www.youtube.com/watch?v=LrvdOtkK2WA)|SceneKit, Metal, MetalKit, ARKit|Rejected|
-|[Jacob Tilly](https://www.twitter.com/jacobtilly00/)|||UIKit|Submitted|
-|[Kenan Atmaca](https://twitter.com/uikenan)|[GitHub](https://github.com/KenanAtmaca/WWDC19)||SpriteKit, UIKit|Rejected|
-
