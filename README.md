@@ -159,6 +159,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |Sarah-Leigh Meijers||[YouTube](https://youtu.be/3GZJXVxjSzA)|UIKit, AVFoundation|Accepted|
 |[Saumya Lahera](https://www.saumyalahera.com)||[YouTube](https://www.youtube.com/watch?v=UMcjJw7NtnA&t=14s)|SceneKit, Metal, MetalKit, Metal Shading Language, ARKit|Rejected|
 |[Sergen Gönenç](https://twitter.com/sertheapplr)|[GitHub](https://github.com/sergendev/DysgraphAI)||UIKit, CoreML, Vision, Create ML|Submitted|
+|[Sharath Sriram](https://github.com/sharaththegeek)|[GitHub](https://github.com/sharaththegeek/WWDC19-EarthMan)|[YouTube](https://www.youtube.com/watch?v=UHCQzddMahU)|UIKit,AVFoundation|Rejected|
 |[Simon Bohnen](http://simonbohnen.me/)|[GitHub](https://github.com/simonbohnen/WWDC19-Lsystems)|[YouTube](https://www.youtube.com/watch?v=4YhSK8Fg_pE)|UIKit, Core Animation, Hype 3|Submitted|
 |[Sylvain Guillier](http://www.guilliersylvain.raidghost.com)|[GitHub](https://github.com/ElChoquito/WWDC19---WatchMaker)|[YouTube](https://youtu.be/9uW8rqiRi1I)|UIKit, AVFoundation, SceneKit|Accepted|
 |[Swapnanil Dhol](https://twitter.com/swapnanildhol)||[YouTube](https://www.youtube.com/watch?v=QaVC1AluGAo)|Create ML, Vision, Sprite Kit, CoreML |Submitted|
