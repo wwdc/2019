@@ -96,6 +96,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Jari Koopman](https://twitter.com/LotUDev)|[GitHub](https://github.com/MrLotU/WWDC19)||CoreMotion, SpriteKit|Accepted|
 |[Jiaqi Liu](https://twitter.com/tuzi_moe)|||SpriteKit, ARKit, UIKit, CoreML|Submitted|
 |[Jiaxing Yu](https://twitter.com/Albertyujx)|[GitHub](https://github.com/YujxZJCN/WWDC19-SaveMe)||ARKit, SceneKit, AVFoundation, CAEmitterLayer|Accepted|
+|[Jobe Dylbas](https://github.com/jobedylbas/)|[Github](https://github.com/jobedylbas/librasplayground)||UIKit, Foundation|Accepted|
 |[John Ciocca](https://www.twitter.com/JohnCiocca)|||UIKit, SpriteKit, CoreML, AVFoundation|Submitted|
 |[John Palevich](https://www.instagram.com/johnpalevich/)|[GitHub](https://github.com/JohnPalevich/wwdc2019submission)||ARKit, SceneKit, UIKit, Wings3D|Submitted|
 |[Jordan Osterberg](https://twitter.com/OsterbergJordan)|[GitHub](https://github.com/JordanOsterberg/wwdc/)|[YouTube](https://www.youtube.com/watch?v=G4_Do_m50NQ)|SpriteKit, UIKit, PlaygroundBooks, Accessibility|Submitted|
