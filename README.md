@@ -78,7 +78,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Giovanni Bruno](https://www.instagram.com/gg.bru/)|[GitHub](https://github.com/GiovanniLuigi/ToRecycle_WWDC2019)|[YouTube](https://www.youtube.com/watch?v=GVS3H0rR7Rk)|SpriteKit, Gameplaykit|Submitted|
 |[Grant Emerson](http://www.821apps.com/)|[GitHub](https://github.com/GrantJEmerson/WWDC19)||UIKit, SceneKit, AVFoundation, ARKit|Accepted|
 |[Guilherme Bayma](https://twitter.com/guibayma)|[GitHub](https://github.com/GuiBayma/DiscoveringML)||AVFoundation, CoreML, PlaygroundBook, UIKit|Submitted|
-|[Guillermo Cique](https://twitter.com/guiyec)|[GitHub](https://github.com/GuiyeC/WWDC-2019)|[YouTube](https://www.youtube.com/watch?v=LkUXrp9zjJY)|Neural Networks, UIKit, Core Animation, Playground Books|Submitted|
+|[Guillermo Cique](https://twitter.com/guiyec)|[GitHub](https://github.com/GuiyeC/WWDC-2019)|[YouTube](https://www.youtube.com/watch?v=LkUXrp9zjJY)|Neural Networks, UIKit, Core Animation, Playground Books|Accepted|
 |[Gustavo Leite](https://www.linkedin.com/in/gustavo-garcia-leite-1228b9175/)|[GitHub](https://github.com/GUUSTA/WWDC19-Dyslexsee)|[YouTube](https://www.youtube.com/watch?v=5i2IcbbnkOs)|UIKit, Playground Books|Rejected|
 |[Grayson Martin](https://graysonmartin.net)|[Github](https://github.com/gm3197/wwdc19)||SpriteKit, PlaygroundSupport|Accepted|
 |[Haotian Zheng](http://fincher.im/)|[GitHub](https://github.com/JustinFincher/WWDC19Playground)|[YouTube](https://www.youtube.com/watch?v=otw49ioAm2U)|UIKit Dynamics, SpriteKit, AVFoundation|Rejected|
