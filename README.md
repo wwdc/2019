@@ -42,7 +42,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Ayoob Nazeem](https://github.com/Ayoob7/)|[GitHub](https://github.com/Ayoob7/hashing-functions-swift-playgrounds)|[Youtube](https://www.youtube.com/watch?v=qtJhLRvTBi8&feature=youtu.be)|SpriteKit, UIKit, Foundation|Submitted|
 |Bastian Kusserow|[GitHub](https://github.com/BastianKusserow/WWDC2019Submission)|[YouTube](https://www.youtube.com/watch?v=UM5LJQ2sxaA)|UIKit, SpriteKit, Vision, CoreML|Submitted|
 |[Batuhan Saka](https://twitter.com/strawb3rryx7)||[YouTube](https://youtu.be/L4PDdMHfuFQ)|UIKit, CoreML, Vision, AVFoundation|Submitted|
-|[Benjamin Hutter](https://twitter.com/BenjaminHutter4)|[GitHub](https://github.com/benjaminhtr/WWDC19-Scholarship-Submission)||UIKit, CoreML, Vision, AVFoundation|Submitted|
+|[Benjamin Hutter](https://twitter.com/BenjaminHutter4)|[GitHub](https://github.com/benjaminhtr/WWDC19-Scholarship-Submission)||UIKit, CoreML, Vision, AVFoundation|Accepted|
 |Bjorn Sahlin|[GitHub](https://github.com/bjsahlin/wwdc2019Playground)||UIKit, AVFoundation|Submitted|
 |[Carol Chen](https://carolchen.me)|[GitHub](https://github.com/kipply/sorting_algorithm_visualization_and_aurlization_in_a_swift_playground)|[YouTube](https://www.youtube.com/watch?v=-fTBJMBzVng)||Submitted|
 |[Carolina Niglio](https://carolinaniglio.webflow.io)|[GitHub](https://github.com/carolinaniglio/ColorTheoryPlaygroundBook-WWDC2019)||SpriteKit|Accepted|
