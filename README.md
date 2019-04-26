@@ -154,6 +154,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Qingyang Hu](https://twitter.com/hqy_2000)|[GitHub](https://github.com/hqy2000/Railway)||SpriteKit, PlaygroundBooks|Submitted|
 |[Rafael Ferreira](https://github.com/Rafaelfferreira)|[GitHub](https://github.com/Rafaelfferreira/PlaygroundOfLife/tree/master)||UIKit|Accepted|
 |[Raffaele Ascione](https://raffaeleascioneofficial.wordpress.com/)|[GitHub](https://github.com/raffesc/The-Mikado-game)|[YouTube](https://www.youtube.com/watch?v=Mz86J83I-Lo)|SceneKit, ARKit, UIKit|Submitted|
+|[Raghav Vashisht](https://twitter.com/dramikei)|[GitHub](https://github.com/dramikei/wwdc19-submission)||CoreGraphics, UIKit, AVFoundation, UIImpackFeedbackGenerator |Accepted|
 |[Renan Magagnin](https://www.linkedin.com/in/renanmagagnin/)|[GitHub](https://github.com/RenanMagagnin/mindblower-wwdc19)|[YouTube](https://www.youtube.com/watch?v=xH9cn7BtG8k)|SpriteKit, AVFoundation |Accepted|
 |[Renata Faria](https://www.linkedin.com/in/renatafg-240996)|[GitHub](https://github.com/xReee/wwdc2019)|[YouTube](https://youtu.be/xcTyaG1eo98)|ARKit, UIGestures, AVFoundation, SceneKit |Submitted|
 |[Riley Walz](https://twitter.com/rtwlz)||[YouTube](https://www.youtube.com/watch?v=INF2xPXhTbY)|SpriteKit, GameplayKit, NaturalLanguage|Accepted|
