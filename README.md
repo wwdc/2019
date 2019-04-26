@@ -117,6 +117,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Linh Bouniol](https://twitter.com/linhbouniol)||[YouTube](https://www.youtube.com/watch?v=XywaVKxTnys)|CoreML, CreateML, Vision, AVFoundation|Accepted|
 |[Liuliet Lee](https://github.com/LiulietLee)|[GitHub](https://github.com/LiulietLee/mikutap)||UIKit, MetalKit, MediaPlayer, AVFoundation|Accepted|
 |Luiz Processo|[GitHub](https://github.com/luizprocesso/wwdc2019)||SpriteKit, AVFoundation, PlaygroundBook|Submitted|
+|[Maanas Manoj](https://maanas.me)|[GitHub](https://github.com/themaanas/WWDC2019)|[YouTube](https://www.youtube.com/watch?v=5ge6ph0qU5M)|UIKit|Accepted|
 |Mansi Gandhi|[GitHub](https://github.com/mansimg/-WWDC-2019-Scholarship-Submission-Green-Sort)|[YouTube](https://youtu.be/kx9YG04_0JQ)|SpriteKit, UIKit|Submitted|
 |[Mark Bruckert](https://twitter.com/Mark_Bruckert)|[GitHub](https://github.com/mbruckert/WWDC-2019-Apple-TV)|[YouTube](https://youtu.be/mr5sKyyi4Pc)|UIKit, AVKit|Rejected|
 |Marco Tammaro|[GitHub](https://github.com/marcotammaro/WWDC19.git)|[YouTube](https://youtu.be/ELh54nK4Deg)|UIKit, SpriteKit, AVFoundation|Submitted|
