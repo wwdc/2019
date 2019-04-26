@@ -156,7 +156,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Raffaele Ascione](https://raffaeleascioneofficial.wordpress.com/)|[GitHub](https://github.com/raffesc/The-Mikado-game)|[YouTube](https://www.youtube.com/watch?v=Mz86J83I-Lo)|SceneKit, ARKit, UIKit|Submitted|
 |[Raghav Vashisht](https://twitter.com/dramikei)|[GitHub](https://github.com/dramikei/wwdc19-submission)||CoreGraphics, UIKit, AVFoundation, UIImpackFeedbackGenerator |Accepted|
 |[Renan Magagnin](https://www.linkedin.com/in/renanmagagnin/)|[GitHub](https://github.com/RenanMagagnin/mindblower-wwdc19)|[YouTube](https://www.youtube.com/watch?v=xH9cn7BtG8k)|SpriteKit, AVFoundation |Accepted|
-|[Renata Faria](https://www.linkedin.com/in/renatafg-240996)|[GitHub](https://github.com/xReee/wwdc2019)|[YouTube](https://youtu.be/xcTyaG1eo98)|ARKit, UIGestures, AVFoundation, SceneKit |Submitted|
+|[Renata Faria](https://www.linkedin.com/in/renatafg-240996)|[GitHub](https://github.com/xReee/wwdc2019)|[YouTube](https://youtu.be/xcTyaG1eo98)|ARKit, UIGestures, AVFoundation, SceneKit |Accepted|
 |[Riley Walz](https://twitter.com/rtwlz)||[YouTube](https://www.youtube.com/watch?v=INF2xPXhTbY)|SpriteKit, GameplayKit, NaturalLanguage|Accepted|
 |[Rodrigo Farias](https://github.com/rodrigowoulddo)|[GitHub](https://github.com/rodrigowoulddo/WWDC-2019-The-Bacteria-Adventure)|[YouTube](https://www.youtube.com/watch?v=Hurv-P0hw_I)|SpriteKit, AVFoundation|Accepted|
 |[Roland Horváth](https://twitter.com/hroland_)||[YouTube](https://www.youtube.com/watch?v=M-qtaV6lY_g)|CoreML, Vision, ARKit, AVFoundation |Accepted|
