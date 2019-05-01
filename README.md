@@ -187,6 +187,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Veit Progl](https://twitter.com/voxelvoxels)|[GitHub](https://github.com/Veeit/wwdc-2019)|[YouTube](https://www.youtube.com/watch?v=vyyqGDmHQ9Q)|CoreML, UIKit, Keras, PlaygroundBooks|Accepted|
 |Victor Lucas Deodato|[GitHub](https://github.com/vixtorlucas/3DSWIFTSORT/)|[YouTube](https://youtu.be/RK-jz0vH2v4)|UIkit, SceneKit|Submitted|
 |Victor Freitas Vasconcelos |[GitHub](https://github.com/victorabroum/choose_WWDC19)|| SpriteKit, Graphs | Accepted |
+|[Victor Kreniski](www.victorkreniski.com)||[Youtube](https://www.youtube.com/watch?v=l4ICHlerfkM&feature=youtu.be)| SpriteKit, AVFoundation, CoreMotion | Accepted |
 |[Vincent Cai](https://vince14genius.github.io)|[GitHub](https://github.com/Vince14Genius/WWDC19-Finder-Zen-AR)|[YouTube](https://www.youtube.com/watch?v=U2eQBGyVmyc)|ARKit, SceneKit, UIKit, Foundation|Rejected|
 |Vinicius Leal|[GitHub](https://github.com/viniciusml/Sammy-on-ice.git)|[YouTube](https://youtu.be/JGUQ6giyeBw)|SpriteKit, CoreMotion|Accepted|
 |[Vlad Munteanu](http://vladcmunteanu.com)|[GitHub](https://github.com/vlad-munteanu/PearWatch)|[YouTube](https://www.youtube.com/watch?v=nGTPjg6663Q)|SpriteKit, AVFoundation|Submitted|
