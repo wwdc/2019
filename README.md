@@ -31,7 +31,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Allyson Aberg](https://www.linkedin.com/in/allysonaberg/)|[GitHub](https://github.com/allysonaberg/WWDC2019)||AVFoundation, Spritekit|Accepted|
 |[Alysson Façanha](https://github.com/allymf)|[GitHub](https://github.com/allymf/Generative-Art-Playground)||SpriteKit, UIKit|Accepted|
 |[Amanda Li](https://github.com/amandaLi7)|[GitHub](https://github.com/amandaLi7/objects_in_diff_lang)||ARKit, CoreML, SpriteKit, UIKit|Accepted|
-|[Anav Mehta](https://3dwaffles.blogspot.com)|[GitHub](https://github.com/anavmehta/3dminesweeper)||AVFoundation, SceneKit, AVKit|Accepted|
+|[Anav Mehta](https://3dwaffles.blogspot.com)|[GitHub](https://github.com/anavmehta/3dminesweeper)|[YouTube](https://www.youtube.com/watch?v=5fTMDxVzlhc)|AVFoundation, SceneKit, AVKit|Accepted|
 |Andika Leonardo|[GitHub](https://github.com/andikaleonardo/WWDC-2019-Scholarship-Submissions)||QuartzCore, UISceneKit, UIStackView, CGFloat/CGRect|Submitted|
 |[Andrew Sawyer](http://andrewjsawyer.com/)|[GitHub](https://github.com/aswyer/Emotist)||SceneKit|Submitted|
 |[Andy Jiehan Aldicho](https://twitter.com/scitsiugnil)|[GitHub](https://github.com/jiehanAldicho/WWDC2019)|[YouTube](https://youtu.be/PB19nN_fwYo)|SpriteKit, GameplayKit, AppKit|Accepted|
