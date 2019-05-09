@@ -148,7 +148,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Oksana Bolibok](https://www.linkedin.com/in/oksana-bolibok-1ba8a9165/)|[GitHub](https://github.com/Rok-sana/WWDC19-LogicBoard)|[YouTube](https://youtu.be/vs4REdz2i_w)|ARKit, SpriteKit, Foundation, UIKit|Submitted|
 |[Omer Gulen](https://twitter.com/omergulenn)|[GitHub](https://github.com/omergulen/wwdc19)||UIKit, CoreAnimation|Submitted|
 |[omrobbie](https://omrobbie.com)|[GitHub](https://github.com/omrobbie/WWDC19)|[YouTube](https://youtu.be/zgoVTi7xyJU)|UIKit, AVFoundation|Submitted|
-|[Oscar Fridh](https://www.facebook.com/oscar.fridh)|[GitHub](https://github.com/OscarFridh/ConcentrationWWDC19)||UIKit, AVFoundation|Accepted|
+|[Oscar Fridh](https://www.facebook.com/oscar.fridh)|[GitHub](https://github.com/OscarFridh/ConcentrationWWDC19)|[Youtube](https://www.youtube.com/watch?v=IIzL6KAL5zM)|UIKit, AVFoundation|Accepted|
 |[Oscar Gorog](https://oscargorog.com)|[GitHub](https://github.com/OkiRules/WWDC19-Submission)||SpriteKit, AVFoundation, JSON Parsing|Submitted|
 |Ozan Mirza|[GitHub](https://github.com/ozanmirza1/WWDC-2019-Neural-Networks)|[Youtube](https://youtu.be/1gk3QSbFVpU)|CoreML, Vision, UIKit, QuartzCore|Submitted|
 |[Patcharapon Joksamut](https://twitter.com/Frost_Noxia)|[GitHub](https://github.com/patcharapon-j/AlgoMaze)|[YouTube](https://www.youtube.com/watch?v=m-xPh7gDT9o)|UIKit|Accepted|
