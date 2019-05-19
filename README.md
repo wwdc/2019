@@ -48,6 +48,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Batuhan Saka](https://twitter.com/strawb3rryx7)||[YouTube](https://youtu.be/L4PDdMHfuFQ)|UIKit, CoreML, Vision, AVFoundation|Submitted|
 |[Benjamin Hutter](https://twitter.com/BenjaminHutter1)|[GitHub](https://github.com/benjaminhtr/WWDC19-Scholarship-Submission)||UIKit, CoreML, Vision, AVFoundation|Accepted|
 |Bjorn Sahlin|[GitHub](https://github.com/bjsahlin/wwdc2019Playground)||UIKit, AVFoundation|Submitted|
+|[Bruno Pastre](https://pastre.github.io)|[GitHub](https://github.com/pastre/wwdc-2019-playground)||UIKit, ARKit, AVFoundation|Rejected|
 |[Carol Chen](https://carolchen.me)|[GitHub](https://github.com/kipply/sorting_algorithm_visualization_and_aurlization_in_a_swift_playground)|[YouTube](https://www.youtube.com/watch?v=-fTBJMBzVng)||Submitted|
 |[Carolina Niglio](https://carolinaniglio.webflow.io)|[GitHub](https://github.com/carolinaniglio/ColorTheoryPlaygroundBook-WWDC2019)||SpriteKit|Accepted|
 |[Cecily Kerns](https://twitter.com/Cecily_Kerns)|[GitHub](https://github.com/CecilyKerns/WWDC/)|[YouTube](https://youtu.be/lls2CAP4ugw)|SpriteKit, UIKit, PlaygroundBooks, Accessibility|Submitted|
