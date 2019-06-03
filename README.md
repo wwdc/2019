@@ -207,7 +207,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |Xi Zhao|[GitHub](https://github.com/ZXXZ00/WWDC19)|[YouTube](https://www.youtube.com/watch?v=qNBlJpHogk4)|SpriteKit|Submitted|
 |[Yashvardhan Mulki](https://twitter.com/ysmulki)|[GitHub](https://github.com/yashmulki/WWDC19)|[YouTube](https://youtu.be/0ZczWDN9HqQ)|SpriteKit, AVFoundation, UIKit|Accepted|
 |[Yichen Cao](https://twitter.com/schemetrical)|[GitHub](https://github.com/Schemetrical/WWDC19)||ARKit, SceneKit, MultipeerConnectivity|Accepted|
-|[Yongkang Chen](https://github.com/iWeslie)|[GitHub](https://github.com/iWeslie/WWDC19)||SceneKit, ARKit|Accepted|
+|[Yongkang Chen](https://github.com/iWeslie)|[GitHub](https://github.com/iWeslie/WWDC19)|[YouTube](https://youtu.be/AUJDKTf57tg)|SceneKit, ARKit|Accepted|
 |[Yong Jun Lim](https://github.com/DHSYongJun)|[GitHub](https://github.com/DHSYongJun/WWDC19)||SpriteKit, AVFoundation|Accepted|
 |[Zach Knox](https://twitter.com/zmknox)|[GitHub](https://github.com/zmknox/WWDC19-Scholarship-Application)|[YouTube](https://www.youtube.com/watch?v=mutncT3Q3F0)|AVFoundation, Core Image, Photos, UIKit|Accepted|
 |[Ziang Qiu](https://skylove.club)|[GitHub](https://github.com/Andyshome/wwdc2019)||SpriteKit,UIKit,AVFoundation|Submitted|
