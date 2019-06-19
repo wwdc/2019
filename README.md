@@ -121,6 +121,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Liam Rosenfeld](https://liamrosenfeld.com)|[Github](https://github.com/liamrosenfeld/FourierArtist)||SpriteKit, AppKit, Foundation|Accepted|
 |[Linh Bouniol](https://twitter.com/linhbouniol)||[YouTube](https://www.youtube.com/watch?v=XywaVKxTnys)|CoreML, CreateML, Vision, AVFoundation|Accepted|
 |[Liuliet Lee](https://github.com/LiulietLee)|[GitHub](https://github.com/LiulietLee/mikutap)||UIKit, MetalKit, MediaPlayer, AVFoundation|Accepted|
+|[Lucas Pelinzon](https://pelinzon.dev)|[GitHub](https://github.com/pelinzon/ExploringNaturalLanguage)|[YouTube](https://www.youtube.com/watch?v=UUNbzfvyk-4)|CoreML, NaturalLanguage, PlaygroundBook, UIKit|Accepted|
 |Luiz Processo|[GitHub](https://github.com/luizprocesso/wwdc2019)||SpriteKit, AVFoundation, PlaygroundBook|Submitted|
 |[Maanas Manoj](http://maanas.me)|[GitHub](https://github.com/themaanas/WWDC2019)|[YouTube](https://www.youtube.com/watch?v=5ge6ph0qU5M)|UIKit|Accepted|
 |Mansi Gandhi|[GitHub](https://github.com/mansimg/-WWDC-2019-Scholarship-Submission-Green-Sort)|[YouTube](https://youtu.be/kx9YG04_0JQ)|SpriteKit, UIKit|Submitted|
