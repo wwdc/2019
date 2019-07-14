@@ -200,6 +200,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |Vinicius Leal|[GitHub](https://github.com/viniciusml/Sammy-on-ice.git)|[YouTube](https://youtu.be/JGUQ6giyeBw)|SpriteKit, CoreMotion|Accepted|
 |[Vlad Munteanu](http://vladcmunteanu.com)|[GitHub](https://github.com/vlad-munteanu/PearWatch)|[YouTube](https://www.youtube.com/watch?v=nGTPjg6663Q)|SpriteKit, AVFoundation|Submitted|
 |[Wendy Liga](https://wendyliga.com)|[GitHub](https://github.com/wendyliga/talking-emoji)|[YouTube](https://youtu.be/t48H-y7Yoc0)|UIKit|Rejected|
+|[Wenzheng "William" Du](https://insightfulai.github.io)|[Github](https://github.com/InsightfulAI/neuroball)||Accelerate, SpriteKit|Rejected|
 |[Will Bishop](https://twitter.com/WillRBishop)|[GitHub](https://github.com/WillBishop/WWDC19)|[YouTube](https://youtu.be/x6KQtIDTKU0)|SpriteKit, AppKit|Accepted|
 |[Will Kwok](https://twitter.com/yuhokwok)|[GitHub](https://github.com/yuhokwok/wwdc19)|[YouTube](https://youtu.be/PpY0OP3s6wc)|CoreML, AVFoundation|Accepted|
 |William Irwin III|[GitHub](https://github.com/Tungsten533/Nekopalypse)||SpriteKit, AVFoundation|Rejected|
