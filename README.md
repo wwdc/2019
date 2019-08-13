@@ -182,7 +182,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Stefan Liesendahl](https://twitter.com/stefanldhl)|[GitHub](https://github.com/StefanLdhl/MLDrawingBook-WWDC19)|[YouTube](https://youtu.be/uOvFMMD5H1w)|UIKit, AVFoundation, PlaygroundBooks, CoreML, Vision|Accepted|
 |[Sylvain Guillier](http://www.guilliersylvain.raidghost.com)|[GitHub](https://github.com/ElChoquito/WWDC19---WatchMaker)|[YouTube](https://youtu.be/9uW8rqiRi1I)|UIKit, AVFoundation, SceneKit|Accepted|
 |[Swapnanil Dhol](https://twitter.com/swapnanildhol)||[YouTube](https://www.youtube.com/watch?v=QaVC1AluGAo)|Create ML, Vision, Sprite Kit, CoreML |Submitted|
-|[Tanvi Khot](https://github.com/tanvikhot)|[GitHub](https://github.com/tanvikhot/SolitairePlayground)||UIKit|Accepted|
+|[Tanvi Khot](https://github.com/tanvikhot)|[GitHub](https://github.com/tanvikhot)||UIKit|Accepted|
 |[Tejasw Gupta](https://www.instagram.com/tejasw__gupta/)|[Github](https://github.com/Tejaswgupta/Lucifer)||UIKit, SpriteKit|Submitted|
 |Theodore Conrad|[GitHub]( https://github.com/theomconrad/scaling-garbanzo)|[YouTube](https://www.youtube.com/watch?v=PUSZgLW2-Y4)||Submitted|
 |[Thijs van der Heijden](https://twitter.com/Thijsheijden)|[GitHub](https://github.com/thijsheijden/WWDC19-Playground)|[YouTube](https://www.youtube.com/watch?v=nBs5YOZ6s9Q&feature=youtu.be)|SpriteKit, GameplayKit, CoreML, Vision|Submitted|
