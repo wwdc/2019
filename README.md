@@ -139,7 +139,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Michael Dugan](https://www.linkedin.com/in/michael-dugan-733764177/)|||AVFoundation, UIKit|Submitted|
 |[Michal Cichecki](https://www.linkedin.com/in/mcichecki/)|[GitHub](https://github.com/mcichecki/complex-grapher)||SpriteKit, UIKit, AVFoundation|Accepted|
 |[Mingyuan Hu](https://github.com/miamiaH)||[YouTube](https://www.youtube.com/watch?v=7PZi3lce_Pw)|ARKit, SceneKit, SpriteKit, Vision| Rejected|
-|Minhyuk Kim|[GitHub](https://github.com/mininny/WWDC19)|[YouTube](https://youtu.be/HpQwxVZfzTA)|ARKit, SpriteKit, AVFoundation, UIKit|Submitted|
+|[Minhyuk Kim](https://www.linkedin.com/in/mininnykim)|[GitHub](https://github.com/mininny)|[YouTube](https://youtu.be/HpQwxVZfzTA)|ARKit, SpriteKit, AVFoundation, UIKit|Accepted|
 |[Mohamed Salah](https://mohasalah.com)|[GitHub](https://github.com/mohasalahh/WWDC19-Scholarship-Submission)|[YouTube](https://www.youtube.com/watch?v=bH9FwLSS1LA)|CoreML, CreateML, CoreGraphics, UIKit|Accepted|
 |[Muhammad Dary Azhari](https://stackoverflow.com/users/5834822/dary)||[YouTube](https://www.youtube.com/watch?v=8B2iL92U58Q)|UIKit, AVFoundation|Submitted|
 |[Naman Bishnoi](https://lucidex.co)|[GitHub](https://github.com/diabloxenon/Race-Against-Time)||ARKit, SceneKit, AVFoundation, CoreMotion, UIKit|Rejected|
