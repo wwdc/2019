@@ -23,6 +23,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Abram Situmorang](https://situmorang.me)|[GitHub](https://github.com/abrampers/WWDC19-Submission)||MetalKit|Accepted|
 |[Adrian Kashivskyy](https://twitter.com/akashivskyy)|[GitHub](https://github.com/akashivskyy/wwdc-sight)||AVFoundation, CoreImage, CoreLocation, Metal|Accepted|
 |[Adrian Labbé](https://twitter.com/develobile)|[GitHub](https://github.com/ColdGrub1384/WWDC19)|[Instagram](https://www.instagram.com/tv/BvaK4DOBrOA)|UIKit, Drag & Drop|Submitted|
+|[Alan Victor](https://github.com/AlanVic)|[GitHub](https://github.com/AlanVic/WWDC2019_WearingMinimalism)|[Youtube](https://youtu.be/bTQnOBnU1jk)|SpriteKit, AVFoundation, UIKit|Accepted|
 |[Alcides Junior](https://twitter.com/alcidesjuniorbr)|[GitHub](https://github.com/alcidesjunior/ihitthings)|[YouTube](https://www.youtube.com/watch?v=UtP5xFr3GlY)|SpriteKit|Accepted|
 |[Alessandro Alberti](https://www.facebook.com/alessandro.alberti.1614)||[YouTube](https://youtu.be/xwGMqdJtqyQ)|SpriteKit, GameplayKit, ARKit, SceneKit|Rejected|
 |[Alessandro Minopoli](https://www.linkedin.com/in/alessandro-minopoli/)||[Youtube](https://www.youtube.com/watch?v=EAq9ehyH_LY)|PlaygroundBook, SpriteKit, CoreML, Vision|Rejected|
