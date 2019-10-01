@@ -171,7 +171,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Rodrigo Farias](https://github.com/rodrigowoulddo)|[GitHub](https://github.com/rodrigowoulddo/WWDC-2019-The-Bacteria-Adventure)|[YouTube](https://www.youtube.com/watch?v=Hurv-P0hw_I)|SpriteKit, AVFoundation|Accepted|
 |[Roland Horváth](https://twitter.com/hroland_)||[YouTube](https://www.youtube.com/watch?v=M-qtaV6lY_g)|CoreML, Vision, ARKit, AVFoundation |Accepted|
 |[Sahith Thummalapally](https://sahithr03.github.io)|[Github](https://github.com/sahithr03)|[Youtube](https://youtu.be/h0jERgTNPdU)|AVKit, UIKit, Vision, CoreML|Submitted|
-|[Sai Kambampati](https://twitter.com/Sai_K1065)||[YouTube](https://www.youtube.com/watch?v=QCREUCZlLd4)|UIKit, SceneKit, ARKit, CoreML|Submitted|
+|[Sai Kambampati](https://twitter.com/Sai_K1065)||[YouTube](https://www.youtube.com/watch?v=QCREUCZlLd4)|UIKit, SceneKit, ARKit, CoreML|Rejected|
 |[Sam Eckert](https://twitter.com/sam0711er)||[YouTube](https://youtu.be/8GhNUKteLMg)|AVFoundation, SpriteKit, Vision & CoreML|Submitted|
 |Sandra Grujovic| [Github](https://github.com/melloskitten/my-other-half)|[YouTube](https://youtu.be/I27dVqgCQd8)|SpriteKit|Accepted|
 |Sarah-Leigh Meijers||[YouTube](https://youtu.be/3GZJXVxjSzA)|UIKit, AVFoundation|Accepted|
