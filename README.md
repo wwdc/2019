@@ -157,6 +157,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |Ozan Mirza|[GitHub](https://github.com/ozanmirza1/WWDC-2019-Neural-Networks)|[Youtube](https://youtu.be/1gk3QSbFVpU)|CoreML, Vision, UIKit, QuartzCore|Submitted|
 |[Patcharapon Joksamut](https://twitter.com/Frost_Noxia)|[GitHub](https://github.com/patcharapon-j/AlgoMaze)|[YouTube](https://www.youtube.com/watch?v=m-xPh7gDT9o)|UIKit|Accepted|
 |[Peijun Weng](https://github.com/windstormeye)|[GitHub](https://github.com/windstormeye/WWDC19_brocadeOfLiNationality)||UIKit|Accepted|
+|[Penélope Araújo](https://www.linkedin.com/in/penelopearaujo/)|[GitHub](https://github.com/penelopearaujo/TangramChallenge)||SpriteKit|Accepted|
 |[Pierpaolo Sepe](https://www.linkedin.com/in/pierpaolosepe/)||[YouTube](https://youtu.be/HI5lGdYwcFA)|ARKit, AVFoundation, CoreML, PlaygroundBook|Accepted|
 |[Pon Mahil Arasu](https://www.instagram.com/ponmahilarasu/)|[GitHub](https://github.com/MahilArasu/WWDC-19-submission)|[YouTube](https://youtu.be/PP5C1-w_wVI)|UIKit|Accepted|
 |[Pranav Karthik](https://twitter.com/PranavKarthik15)|[GitHub](https://github.com/ZORLAXX/WWDC19Submission)|[YouTube](https://youtu.be/dvN3aRJJju0)|ARKit, UIKit, SceneKit, AVFoundation|Accepted|
