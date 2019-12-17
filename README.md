@@ -78,6 +78,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Ethan Humphrey](https://twitter.com/EthanInnovator)|[GitHub](https://github.com/EthanTheInnovator/LearningMachineLearning)||Playground Book, Core ML, Vision, UIAccessibility |Submitted|
 |[Fan Bai](https://github.com/fullalien)|[GitHub](https://github.com/fullalien/WWDC19_Patternful)||UIKit, CoreGraphics|Submitted|
 |[Fikret Şengül](https://www.fikretsengul.me)|[GitHub](https://github.com/fikretsengul)||SpriteKit|Submitted|
+|[Frost Lee](https://frost-lee.github.io)|[GitHub](https://github.com/Frost-Lee/Now-You-Hear-Me)||AVFoundation|Rejected|
 |[Gabriel D'Luca](https://www.linkedin.com/in/gabriel-d-luca-340001126/) |[GitHub](https://github.com/gabrieldluca/mosaic)|[YouTube](https://www.youtube.com/watch?v=8aJH1pYvUDE)|UIKit, SceneKit, AVFoundation, CoreAnimation |Rejected|
 |[Gautham Elango](https://gggcubed.com/)|[GitHub](https://github.com/gg2001/WhatsApple)||AVFoundation, Vision, CoreML, Image I/O|Submitted|
 |[Gennaro Frate](https://twitter.com/GennaroFra)|[GitHub](https://github.com/TheGen30)||ARKit, SceneKit, SpriteKit|Rejected|
