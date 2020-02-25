@@ -104,6 +104,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Jacob Tilly](https://www.twitter.com/jacobtilly00/)|||UIKit|Submitted|
 |Jaesung Lee|||UIKit, AVFoundation, SceneKit, ARKit|Accepted|
 |[Jahanzeb Jabbar](https://twitter.com/Jahanzeb_me4u)|[GitHub](https://github.com/jahanzeb-j/CodeWorld)|[YouTube](https://youtu.be/9WfrwX6ebVI)|SpriteKit, GameplayKit, CoreMotion, AVFoundation|Rejected|
+|[Jaime Blasco](https://github.com/jamesblasco)|[GitHub](https://github.com/jamesblasco/morse_coding_swift_playground)||UIKit, AVFoundation|Accepted|
 |jamfly|[GitHub](https://github.com/jamfly/WWDC-2019)||CoreML, NaturalLanguage, ImageIO, Vision|Rejected|
 |[Jari Koopman](https://twitter.com/LotUDev)|[GitHub](https://github.com/MrLotU/WWDC19)||CoreMotion, SpriteKit|Accepted|
 |[Jiaqi Liu](https://twitter.com/tuzi_moe)|||SpriteKit, ARKit, UIKit, CoreML|Submitted|
