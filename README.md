@@ -47,6 +47,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Aurther Nadeem](https://www.instagram.com/aurther_nadeem/?hl=en)|[GitHub](https://github.com/Aurther-Nadeem/WWDC-2019)||ARKit, Core Animation, AVFoundation, UIKit|Accepted|
 |[Avery Vine](https://averyvine.com)|[GitHub](https://github.com/AveryVine/Twister)||UIKit, SpriteKit, AVFoundation|Accepted|
 |[Ayoob Nazeem](https://github.com/Ayoob7/)|[GitHub](https://github.com/Ayoob7/hashing-functions-swift-playgrounds)|[Youtube](https://www.youtube.com/watch?v=qtJhLRvTBi8&feature=youtu.be)|SpriteKit, UIKit, Foundation|Submitted|
+|[Bartłomiej Pluta](https://github.com/bpluta)|[GitHub](https://github.com/bpluta/Faze)||UIKit, Vision, SceneKit|Rejected|
 |Bastian Kusserow|[GitHub](https://github.com/BastianKusserow/WWDC2019Submission)|[YouTube](https://www.youtube.com/watch?v=UM5LJQ2sxaA)|UIKit, SpriteKit, Vision, CoreML|Submitted|
 |[Batuhan Saka](https://twitter.com/strawb3rryx7)||[YouTube](https://youtu.be/L4PDdMHfuFQ)|UIKit, CoreML, Vision, AVFoundation|Submitted|
 |[Benjamin Hutter](https://twitter.com/BenjaminHutter1)|[GitHub](https://github.com/benjaminhtr/WWDC19-Scholarship-Submission)||UIKit, CoreML, Vision, AVFoundation|Accepted|
