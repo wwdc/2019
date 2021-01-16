@@ -40,6 +40,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Andrew Sawyer](http://andrewjsawyer.com/)|[GitHub](https://github.com/aswyer/Emotist)||SceneKit|Submitted|
 |[Andy Jiehan Aldicho](https://twitter.com/scitsiugnil)|[GitHub](https://github.com/jiehanAldicho/WWDC2019)|[YouTube](https://youtu.be/PB19nN_fwYo)|SpriteKit, GameplayKit, AppKit|Accepted|
 |[Andy Luo](https://github.com/AndyLuoJJ)|[GitHub](https://github.com/AndyLuoJJ/WWDC-2019-Scholarship.git)||UIKit, Foundation, CoreGraphics|Accepted|
+|[Anne Li](https://anli.io)|[GitHub](https://github.com/fibanneacci/shape-escape)|[YouTube](https://www.youtube.com/watch?v=nSTv48n1BOo)|SceneKit|Accepted|
 |[Anthony Li](https://anli.dev)|[GitHub](https://github.com/anli5005/bubble-tea-playground)||SceneKit, SpriteKit, CoreGraphics|Submitted|
 |[Archer Gardiner-Sheridan](https://twitter.com/Archergs14)|[GitHub](https://github.com/archergs/WWDC2019Submission)||SpriteKit, AppKit|Submitted|
 |[Arnaud Nommay](https://www.linkedin.com/in/arnaud-nommay/)|[GitHub](https://github.com/Armay2/WWC19-Scholarship-Submission)|[YouTube](https://www.youtube.com/watch?v=3S-ImTCCmEI)|SpriteKit, Foundation|Rejected|
