@@ -74,6 +74,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Dhrumil Dhanesha](http://www.dhrumildhanesha.com/)|[GitHub](https://github.com/DhrumilDhanesha/wwdc19)|[YouTube](https://www.youtube.com/channel/UCXQJa9anuEkVlS2wpXbfM4Q?view_as=subscriber)|PlaygroundSupport, SpriteKit, Foundation, GameKit|Submitted|
 |[Dowland Aiello](https://github.com/dowlandaiello)|[GitHub](https://github.com/polaris-project/swift-polaris)|[YouTube](https://youtu.be/6CUK_pxzQ-4)|Foundation, UIKit|Submitted|
 |Denny Caruso |[GitHub](https://github.com/dennewbie/PizzaCode-Cook)|[YouTube](https://youtu.be/aVSkcdBZG14)|UIKit, AVFoundation|Submitted|
+|[Eduarda Mello](https://www.linkedin.com/in/dudamello/)|[GitHub](https://github.com/dudamello/blast-playground)|[YouTube](https://youtu.be/o7If2qRqcfY)|UIKit, ARKit, AVFoundation|Accepted|
 |[Elias Paulino](https://github.com/EliasPaulinoAndrade)|[GitHub](https://github.com/EliasPaulinoAndrade/Play-Island)|[YouTube](https://www.youtube.com/watch?v=3LVg8Bo1DCg&t=34s)|SceneKit, SpriteKit, AVFoundation, UIKit |Submitted|
 |[Erik Martin](https://twitter.com/erikmartin29)|[GitHub](https://github.com/erikmartin29/INKBLOB)|[YouTube](https://www.youtube.com/watch?v=bDyoOJ2X3EU)|SpriteKit, OpenGL, Foundation|Accepted|
 |[Ethan Humphrey](https://twitter.com/EthanInnovator)|[GitHub](https://github.com/EthanTheInnovator/LearningMachineLearning)||Playground Book, Core ML, Vision, UIAccessibility |Submitted|
