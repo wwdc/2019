@@ -185,6 +185,7 @@ To add your own project below, just [edit](https://github.com/wwdc/2019/edit/mas
 |[Saumya Lahera](https://www.saumyalahera.com)||[YouTube](https://www.youtube.com/watch?v=UMcjJw7NtnA&t=14s)|SceneKit, Metal, MetalKit, Metal Shading Language, ARKit|Rejected|
 |[Sergen Gönenç](https://twitter.com/sertheapplr)|[GitHub](https://github.com/sergendev/DysgraphAI)||UIKit, CoreML, Vision, Create ML|Submitted|
 |[Sharath Sriram](https://github.com/sharaththegeek)|[GitHub](https://github.com/sharaththegeek/WWDC19-EarthMan)|[YouTube](https://www.youtube.com/watch?v=UHCQzddMahU)|UIKit, AVFoundation|Rejected|
+|[Shengyuan Lu](https://www.linkedin.com/in/shengyuan-lu)|[GitHub](https://github.com/shengyuan-lu/Flying-iPhone-XI)|[YouTube](https://www.youtube.com/watch?v=-3drXmE3OLk)|SpriteKit, AVFoundation|Rejected|
 |Sidney Hough||[YouTube](https://youtu.be/t_E1sXk9qDQ)|AVFoundation, CoreAnimation, SpriteKit, UIKit|Accepted|
 |[Simon Bohnen](http://simonbohnen.me/)|[GitHub](https://github.com/simonbohnen/WWDC19-Lsystems)|[YouTube](https://www.youtube.com/watch?v=4YhSK8Fg_pE)|UIKit, Core Animation, Hype 3|Rejected|
 |[Stefan Liesendahl](https://twitter.com/stefanldhl)|[GitHub](https://github.com/StefanLdhl/MLDrawingBook-WWDC19)|[YouTube](https://youtu.be/uOvFMMD5H1w)|UIKit, AVFoundation, PlaygroundBooks, CoreML, Vision|Accepted|
