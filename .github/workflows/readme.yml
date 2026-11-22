@@ -1,0 +1,32 @@
+name: README
+on:
+  push:
+    branches: [master]
+    paths: ["Submission/**", ".github/workflows/readme.yml"]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: readme
+jobs:
+  generate:
+    runs-on: macos-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Get the tool
+        uses: actions/checkout@v4
+        with:
+          repository: wwdc/tools
+          ssh-key: ${{ secrets.TOOLS_DEPLOY_KEY }}
+          path: .tool
+      - name: Generate README.md
+        run: swift run -c release --package-path .tool wwdc-tool generate --repo . --output README.md
+      - name: Commit
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          if git diff --cached --quiet; then echo "README is up to date"; exit 0; fi
+          git commit -m "Update README.md"
+          git pull --rebase origin master
+          git push origin HEAD:master

@@ -1,0 +1,52 @@
+name: Submission form
+on:
+  issues:
+    types: [opened, edited]
+permissions:
+  contents: write
+  issues: write
+  pull-requests: write
+concurrency:
+  group: submission-${{ github.event.issue.number }}
+  cancel-in-progress: true
+jobs:
+  process:
+    if: github.event.issue.state == 'open'
+    runs-on: macos-latest
+    env:
+      GH_TOKEN: ${{ github.token }}
+      NUMBER: ${{ github.event.issue.number }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: master
+      - name: Get the tool
+        uses: actions/checkout@v4
+        with:
+          repository: wwdc/tools
+          ssh-key: ${{ secrets.TOOLS_DEPLOY_KEY }}
+          path: .tool
+      - name: Check the form
+        run: swift run -c release --package-path .tool wwdc-tool issue --repo . --event "$GITHUB_EVENT_PATH" --out "$RUNNER_TEMP/result"
+      - name: Open or update the pull request
+        run: |
+          result="$RUNNER_TEMP/result"
+          ok=$(jq -r .ok "$result/result.json")
+          action=$(jq -r .action "$result/result.json")
+          branch="submission/issue-$NUMBER"
+          if [ "$action" = "ignore" ] && [ "$ok" = "true" ]; then exit 0; fi
+          if [ "$ok" = "true" ]; then
+            title=$(jq -r .prTitle "$result/result.json")
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git checkout -b "$branch"
+            git add Submission
+            git diff --cached --quiet || git commit -m "$title"
+            git push --force origin "$branch"
+            if [ -z "$(gh pr list --head "$branch" --state open --json number --jq '.[0].number')" ]; then
+              gh pr create --head "$branch" --base "master" --title "$title" --body "Closes #$NUMBER"
+            fi
+          else
+            gh pr close "$branch" --delete-branch 2>/dev/null || true
+          fi
+          gh issue comment "$NUMBER" --body-file "$result/comment.md" --edit-last --create-if-none
