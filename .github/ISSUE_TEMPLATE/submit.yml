@@ -1,0 +1,72 @@
+name: Submit your project
+description: Add your WWDC 2019 Scholarship submission to the list.
+title: "Submission: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill in the form below. Only **Name** and **Status** are required.
+        A bot checks the entry and a maintainer approves it. Everything you write here is published on this public list.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: "How you want to be listed."
+      placeholder: "John Appleseed"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: status
+    attributes:
+      label: Status
+      description: "What happened to your submission?"
+      options:
+        - Submitted
+        - Accepted
+        - Rejected
+      default: 0
+    validations:
+      required: true
+  - type: input
+    id: title
+    attributes:
+      label: Project title
+      description: "The name of your project."
+      placeholder: "The Accessibility Rose"
+
+  - type: input
+    id: technologies
+    attributes:
+      label: Technologies
+      description: "Separated by commas. All are kept, the table shows the first few."
+      placeholder: "SwiftUI, RealityKit, CoreML"
+
+  - type: input
+    id: about
+    attributes:
+      label: About me URL
+      description: "Your LinkedIn, website, X, ..."
+      placeholder: "https://linkedin.com/in/johnappleseed"
+
+  - type: input
+    id: source
+    attributes:
+      label: Source code URL
+      description: "GitHub or any other repository."
+      placeholder: "https://github.com/johnappleseed/wwdc2019"
+
+  - type: input
+    id: video
+    attributes:
+      label: Video URL
+      description: "A demo or walkthrough video (YouTube, ...)."
+      placeholder: "https://youtu.be/ABCDE123456"
+
+  - type: checkboxes
+    id: consent
+    attributes:
+      label: Consent
+      options:
+        - label: I agree that the information above is published publicly in this repository.
+          required: true
