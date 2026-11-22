@@ -73,6 +73,7 @@ Use the **[update form](https://github.com/wwdc/2019/issues/new?template=update.
 | Denny Caruso | [GitHub](https://github.com/dennewbie/PizzaCode-Cook) · [Video](https://youtu.be/aVSkcdBZG14)<br><sub>UIKit, AVFoundation</sub> | ⏳ Submitted |
 | [Dhrumil Dhanesha](http://www.dhrumildhanesha.com/) | [GitHub](https://github.com/DhrumilDhanesha/wwdc19) · [Video](https://www.youtube.com/channel/UCXQJa9anuEkVlS2wpXbfM4Q?view_as=subscriber)<br><sub>PlaygroundSupport, SpriteKit, Foundation, GameKit</sub> | ⏳ Submitted |
 | [Dowland Aiello](https://github.com/dowlandaiello) | [GitHub](https://github.com/polaris-project/swift-polaris) · [Video](https://youtu.be/6CUK_pxzQ-4)<br><sub>Foundation, UIKit</sub> | ⏳ Submitted |
+| [Eduarda Mello](https://www.linkedin.com/in/dudamello/) | [GitHub](https://github.com/dudamello/blast-playground) · [Video](https://youtu.be/o7If2qRqcfY)<br><sub>UIKit, ARKit, AVFoundation</sub> | ✅ Accepted |
 | [Elias Paulino](https://github.com/EliasPaulinoAndrade) | [GitHub](https://github.com/EliasPaulinoAndrade/Play-Island) · [Video](https://www.youtube.com/watch?v=3LVg8Bo1DCg&t=34s)<br><sub>SceneKit, SpriteKit, AVFoundation, UIKit</sub> | ⏳ Submitted |
 | [Erik Martin](https://twitter.com/erikmartin29) | [GitHub](https://github.com/erikmartin29/INKBLOB) · [Video](https://www.youtube.com/watch?v=bDyoOJ2X3EU)<br><sub>SpriteKit, OpenGL, Foundation</sub> | ✅ Accepted |
 | [Ethan Humphrey](https://twitter.com/EthanInnovator) | [GitHub](https://github.com/EthanTheInnovator/LearningMachineLearning)<br><sub>Playground Book, CoreML, Vision, UIAccessibility</sub> | ⏳ Submitted |
@@ -189,6 +190,7 @@ Use the **[update form](https://github.com/wwdc/2019/issues/new?template=update.
 | [Swapnanil Dhol](https://twitter.com/swapnanildhol) | [Video](https://www.youtube.com/watch?v=QaVC1AluGAo)<br><sub>CreateML, Vision, SpriteKit, CoreML</sub> | ⏳ Submitted |
 | [Sylvain Guillier](http://www.guilliersylvain.raidghost.com) | [GitHub](https://github.com/ElChoquito/WWDC19---WatchMaker) · [Video](https://youtu.be/9uW8rqiRi1I)<br><sub>UIKit, AVFoundation, SceneKit</sub> | ✅ Accepted |
 | [Tanvi Khot](https://github.com/tanvikhot) | [GitHub](https://github.com/tanvikhot/SolitairePlayground)<br><sub>UIKit</sub> | ✅ Accepted |
+| [Tassio Marques](https://twitter.com/tassiomm) | [Video](https://www.youtube.com/watch?v=5hD3Co-mLU0)<br><sub>SpriteKit, AVFoundation</sub> | ✅ Accepted |
 | [Tejasw Gupta](https://www.instagram.com/tejasw__gupta/) | [GitHub](https://github.com/Tejaswgupta/Lucifer)<br><sub>UIKit, SpriteKit</sub> | ⏳ Submitted |
 | Theodore Conrad | [GitHub](https://github.com/theomconrad/scaling-garbanzo) · [Video](https://www.youtube.com/watch?v=PUSZgLW2-Y4) | ⏳ Submitted |
 | [Thijs van der Heijden](https://twitter.com/Thijsheijden) | [GitHub](https://github.com/thijsheijden/WWDC19-Playground) · [Video](https://www.youtube.com/watch?v=nBs5YOZ6s9Q&feature=youtu.be)<br><sub>SpriteKit, GameplayKit, CoreML, Vision</sub> | ⏳ Submitted |
@@ -224,4 +226,4 @@ Use the **[update form](https://github.com/wwdc/2019/issues/new?template=update.
 | [Ziang Qiu](https://skylove.club) | [GitHub](https://github.com/Andyshome/wwdc2019)<br><sub>SpriteKit, UIKit, AVFoundation</sub> | ⏳ Submitted |
 | [Ziheng Wang](https://www.instagram.com/wang_zi_heng_/) | [GitHub](https://github.com/CreatorVI/WWDC-2019-Submission)<br><sub>UIKit, ARKit, AVFoundation, Playgound Book</sub> | ✅ Accepted |
 
-##### Total: 205 | Awarded: 97
+##### Total: 207 | Awarded: 99
