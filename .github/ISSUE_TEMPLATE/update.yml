@@ -1,0 +1,63 @@
+name: Update or remove your entry
+description: Change your entry in the WWDC 2019 list. Only the person who sent it can do this.
+title: "Update: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Fill in **Name** and only the fields you want to change. Empty fields stay as they are, type `-` to clear a field.
+  - type: input
+    id: name
+    attributes:
+      label: Name
+      description: "Exactly as it appears in the list."
+      placeholder: "John Appleseed"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: status
+    attributes:
+      label: Status
+      options:
+        - No change
+        - Submitted
+        - Accepted
+        - Rejected
+      default: 0
+  - type: input
+    id: title
+    attributes:
+      label: Project title
+      description: "New project title."
+
+  - type: input
+    id: technologies
+    attributes:
+      label: Technologies
+      description: "New list, separated by commas."
+
+  - type: input
+    id: about
+    attributes:
+      label: About me URL
+      description: "New link."
+
+  - type: input
+    id: source
+    attributes:
+      label: Source code URL
+      description: "New link."
+
+  - type: input
+    id: video
+    attributes:
+      label: Video URL
+      description: "New link."
+
+  - type: checkboxes
+    id: remove
+    attributes:
+      label: Remove my entry
+      options:
+        - label: Remove my entry from the list.
