@@ -1,0 +1,5 @@
+# GitHub Pages builds the README of this repository into https://wwdc.github.io/2019/
+theme: jekyll-theme-primer
+title: WWDC 2019 - Scholarship
+exclude:
+  - Submission
