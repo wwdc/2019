@@ -1,6 +1,6 @@
 # WWDC 2019 - Scholarship
 
-![WWDC 2019 Logo](https://i.imgur.com/hOdqkDh.jpg)
+![WWDC 2019 Logo](logo.png)
 
 List of student submissions for the WWDC 2019 - Scholarship. The list is in alphabetical order.
 
@@ -16,7 +16,7 @@ Use the **[update form](https://github.com/wwdc/2019/issues/new?template=update.
 
 ### Submissions
 
-| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status |
+| Participant | Links<br><img src=".github/spacer.svg" width="2000" height="1" alt=""> | Status<br>           |
 |:--|:--|:--|
 | [Aaron Cheung](https://twitter.com/Aaron_Cheung430) | [GitHub](https://github.com/AaronCheung430/WWDC2019) · [Video](https://youtu.be/0y0bctNM1yY)<br><sub>ARKit, SceneKit, AVFoundation, Foundation</sub> | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
 | [Abram Situmorang](https://situmorang.me) | [GitHub](https://github.com/abrampers/WWDC19-Submission)<br><sub>MetalKit</sub> | ![Accepted](https://img.shields.io/badge/accepted-green?style=for-the-badge) |
