@@ -164,6 +164,7 @@ Use the **[update form](https://github.com/wwdc/2019/issues/new?template=update.
 | [Peijun Weng](https://github.com/windstormeye) | [GitHub](https://github.com/windstormeye/WWDC19_brocadeOfLiNationality)<br><sub>UIKit</sub> | ✅ Accepted |
 | [Penélope Araújo](https://www.linkedin.com/in/penelopearaujo/) | [GitHub](https://github.com/penelopearaujo/TangramChallenge)<br><sub>SpriteKit</sub> | ✅ Accepted |
 | [Pierpaolo Sepe](https://www.linkedin.com/in/pierpaolosepe/) | [Video](https://youtu.be/HI5lGdYwcFA)<br><sub>ARKit, AVFoundation, CoreML, PlaygroundBook</sub> | ✅ Accepted |
+| [Piotr Jeremicz](https://www.linkedin.com/in/piotrekjeremicz/)<br><sub>QuantumC Simulator</sub> | [GitHub](https://github.com/piotrekjeremicz/wwdc-2019) · [Video](https://www.youtube.com/watch?v=V48LRbOqf3k&t=30s)<br><sub>SceneKit, UIKit, PlaygroundBook</sub> | ✅ Accepted |
 | [Pon Mahil Arasu](https://www.instagram.com/ponmahilarasu/) | [GitHub](https://github.com/MahilArasu/WWDC-19-submission) · [Video](https://youtu.be/PP5C1-w_wVI)<br><sub>UIKit</sub> | ✅ Accepted |
 | [Pranav Karthik](https://twitter.com/PranavKarthik15) | [GitHub](https://github.com/ZORLAXX/WWDC19Submission) · [Video](https://youtu.be/dvN3aRJJju0)<br><sub>ARKit, UIKit, SceneKit, AVFoundation</sub> | ✅ Accepted |
 | [Qingyang Hu](https://twitter.com/hqy_2000) | [GitHub](https://github.com/hqy2000/Railway)<br><sub>SpriteKit, PlaygroundBooks</sub> | ⏳ Submitted |
@@ -226,4 +227,4 @@ Use the **[update form](https://github.com/wwdc/2019/issues/new?template=update.
 | [Ziang Qiu](https://skylove.club) | [GitHub](https://github.com/Andyshome/wwdc2019)<br><sub>SpriteKit, UIKit, AVFoundation</sub> | ⏳ Submitted |
 | [Ziheng Wang](https://www.instagram.com/wang_zi_heng_/) | [GitHub](https://github.com/CreatorVI/WWDC-2019-Submission)<br><sub>UIKit, ARKit, AVFoundation, Playgound Book</sub> | ✅ Accepted |
 
-##### Total: 207 | Awarded: 99
+##### Total: 208 | Awarded: 100
